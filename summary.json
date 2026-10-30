@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-30T18:15:16+00:00",
+ "generated": "2026-10-30T18:47:39+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "b3171eab2fef65f7",
-  "governor": "54b8015cf7014ae4",
+  "governor": "9a58b94196a3c4e8",
   "house": "260f74db25f5ba1a"
  },
  "projection": {
@@ -77,7 +77,7 @@
  },
  "summaries": {
   "senate": "Polymarket odds show a sizable rise in the Democrats' chances of winning Senate control. The Democrats Adam Hamilton in [[Kansas]] and Troy Jackson in [[Maine]] each gained a good deal of ground, and the market now lists both as predicted flips. The projected Senate count is now 53-47, up from 52-48, with Kansas newly predicted to flip, and the result is that Democrats gain control.",
-  "governor": "In [[Georgia]], Polymarket odds moved sizably in favor of the Democrat Keisha Lance Bottoms, and the market sees it as a predicted flip. The Democrat in [[Iowa]], Rob Sand, also gained ground by a moderate amount, and that race is likewise a predicted flip. Meanwhile, the Republican in [[Texas]], Greg Abbott, saw a moderate drop in the market's odds.",
+  "governor": "The Democrat in [[Georgia]], Keisha Lance Bottoms, saw a sizable rise in Polymarket odds, and the market now lists the race as a predicted flip. The Democrats Rob Sand in [[Iowa]] and Aaron Ford in [[Nevada]] also gained ground by a moderate amount, and both of those contests are likewise shown as predicted flips. In a separate move, the Republican in Texas, Greg Abbott, slipped modestly in the market.",
   "house": "Polymarket odds for House control moved slightly in the last day, with the Democrats' chances edging up. The market continues to favour the Democrats to take the chamber."
  }
 }
