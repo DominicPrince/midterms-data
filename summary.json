@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-30T13:52:13+00:00",
+ "generated": "2026-10-30T16:29:27+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "b3171eab2fef65f7",
-  "governor": "5ac04d02306aa7e7",
-  "house": "0247d54277e72767"
+  "senate": "bd1efcb1ca2021bb",
+  "governor": "54b8015cf7014ae4",
+  "house": "566b4285a63f7c00"
  },
  "projection": {
   "senate": {
@@ -76,8 +76,8 @@
   }
  },
  "summaries": {
-  "senate": "Polymarket odds show the Democrats' chances of taking control of the Senate rising by a sizable amount. The Democrats Adam Hamilton in [[Kansas]] and Troy Jackson in [[Maine]] each gained ground, and both races are predicted flips. The projected Senate count is now 53-47, up from 52-48, meaning Democrats gain control, with Kansas newly predicted as a flip.",
-  "governor": "The Democrat in [[Georgia]], Keisha Lance Bottoms, gained ground by a sizable amount, and Polymarket odds also moved up moderately for the Democrat in [[Iowa]], Rob Sand; both races are shown as predicted flips. In [[Florida]], the chances of the Republican, Byron Donalds, slipped by a moderate amount. The market also moved slightly toward the Republican in Kansas, Ty Masterson, in a race it shows as a predicted flip.",
-  "house": "In the House view, one race stood out over the last day: [[NC-11 (Asheville & Hendersonville)]]. The Democrat, Jamie Ager, saw a moderate drop in Polymarket odds, while the Republican in the race is Jennifer Balkcom. The market lists this contest as a predicted flip."
+  "senate": "The Democrats' chances of winning control of the Senate rose sizably in the Polymarket odds over the last day. The projected seat count moved to 53-47, up from 52-48, which means Democrats gain control, and [[Kansas]] is a newly predicted flip. The Democrat there, Adam Hamilton, gained ground, as did the Democrat in [[Michigan]], Abdul El-Sayed, who also saw a sizable improvement in the market.",
+  "governor": "In [[Georgia]], Polymarket odds moved sizably in favor of the Democrat Keisha Lance Bottoms, and the market sees it as a predicted flip. The Democrat in [[Iowa]], Rob Sand, also gained ground by a moderate amount, and that race is likewise a predicted flip. Meanwhile, the Republican in [[Texas]], Greg Abbott, saw a moderate drop in the market's odds.",
+  "house": "Polymarket odds for Democratic control of the House edged up slightly, and the Democrats remain the favoured party. The biggest single move came in [[NC-11 (Asheville & Hendersonville)]], where the Democrat Jamie Ager gained sharply, with the Republican Jennifer Balkcom the other candidate named in the market. The market treats that seat as a predicted flip."
  }
 }
