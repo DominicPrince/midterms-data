@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-31T12:18:49+00:00",
+ "generated": "2026-10-31T15:39:17+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "9ab9b3326a523120",
+  "senate": "96195673c5b04c33",
   "governor": "7a83ad1c1a01f411",
-  "house": "d9f40fdee31f52c7"
+  "house": "dd8d8be1c01e16ff"
  },
  "projection": {
   "senate": {
@@ -82,8 +82,8 @@
   }
  },
  "summaries": {
-  "senate": "The Democrats' chances of winning Senate control moved up moderately in the Polymarket odds, and the market continues to favour them. In [[Nebraska]], the Republican Pete Ricketts gained sharply, while in [[Maine]] the Democrat Troy Jackson moved up moderately in what the market sees as a predicted flip. The Democrat Sherrod Brown also gained ground in Ohio, another predicted flip, and the Republican in South Carolina, Darline Graham Nordone, saw a moderate drop.",
+  "senate": "Polymarket odds show the Democrats' chances of taking Senate control slipped slightly, though they remain the favoured party. In [[Nebraska]], the Republican Pete Ricketts had a sharp rise in the market's confidence, while in [[Kansas]], the Democrat Adam Hamilton lost a moderate amount of ground in a race the market predicts will flip. In [[Ohio]], the Democrat Sherrod Brown gained moderately, and the market also lists that seat as a predicted flip.",
   "governor": "In [[Georgia]], the Democrat Keisha Lance Bottoms gained ground by a sizable margin, and the market treats it as a predicted flip. In [[Nebraska]], the Republican Jim Pillen also strengthened noticeably. Over in [[Florida]], the Republican Byron Donalds saw a sizable drop in Polymarket odds.",
-  "house": "Polymarket odds show the Democrats favoured to win House control, with their chances edging up slightly. Among individual races, the Republican in [[NC-03 (Greenville & Jacksonville)]], Greg Murphy, strengthened sharply, while the Democrat in [[FL-14 (Plant City)]], Kathy Castor, also gained ground by a sizable amount. In [[NC-09 (Fayetteville & Burlington)]], the Republican Richard Hudson saw a sizable drop in the market's confidence."
+  "house": "Polymarket odds show the Democrats favoured to win control of the House, and their chances edged up slightly. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp drop in chances, while in [[FL-09 (Orlando & Kissimmee)]] the Republican Dan Green slipped by a sizable margin in what the market calls a predicted flip. The Democrat Jamie Ager also lost ground, by a moderate amount, in [[NC-11 (Asheville & Hendersonville)]], another predicted flip."
  }
 }
