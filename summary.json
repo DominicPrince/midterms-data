@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-31T22:59:26+00:00",
+ "generated": "2026-10-31T23:34:15+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "a2fd65928bff3222",
-  "governor": "5c27da93e4dc6931",
+  "governor": "93d995e2430af80f",
   "house": "96251fd9c603a3bf"
  },
  "projection": {
@@ -82,7 +82,7 @@
  },
  "summaries": {
   "senate": "Democrats' chances of winning control of the Senate edged up slightly in Polymarket odds, with the party still the market's favourite. In [[Nebraska]], the Republican Pete Ricketts gained sharply, while in [[Michigan]] the Democrat Abdul El-Sayed also improved by a sizable margin. In [[Kansas]], the Democrat Adam Hamilton lost a moderate amount of ground in what the market still sees as a predicted flip.",
-  "governor": "In [[Nebraska]], the Republican Jim Pillen saw a sizable improvement in Polymarket odds, while in [[Texas]] the Republican Greg Abbott also strengthened moderately. In [[Georgia]], the Democrat Keisha Lance Bottoms gained ground in a race the market lists as a predicted flip. Over in Florida, the Republican Byron Donalds slipped a little in the market's view.",
+  "governor": "The biggest move in the Polymarket odds came in [[Nebraska]], where the Republican, Jim Pillen, saw a sizable rise in chances. In [[Georgia]], the Democrat, Keisha Lance Bottoms, gained ground by a moderate amount in what the market treats as a predicted flip. In [[Florida]], the Republican, Byron Donalds, slipped moderately.",
   "house": "Democrats remain the favoured party to win control of the House, and Polymarket odds for them edged up slightly today. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp drop in chances against the Democrat Paul Barringer. In [[FL-09 (Orlando & Kissimmee)]], the Republican Dan Green slipped by a sizable amount against the Democrat Darren Soto, and the market still lists the district as a predicted flip. The projected seat count moved to 238-197, down from 239-196, with the result still that Democrats gain control."
  }
 }
