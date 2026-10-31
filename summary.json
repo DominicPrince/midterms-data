@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-31T15:39:17+00:00",
+ "generated": "2026-10-31T15:54:33+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "96195673c5b04c33",
-  "governor": "7a83ad1c1a01f411",
+  "governor": "5fb61e3cf8d1ef0b",
   "house": "dd8d8be1c01e16ff"
  },
  "projection": {
@@ -83,7 +83,7 @@
  },
  "summaries": {
   "senate": "Polymarket odds show the Democrats' chances of taking Senate control slipped slightly, though they remain the favoured party. In [[Nebraska]], the Republican Pete Ricketts had a sharp rise in the market's confidence, while in [[Kansas]], the Democrat Adam Hamilton lost a moderate amount of ground in a race the market predicts will flip. In [[Ohio]], the Democrat Sherrod Brown gained moderately, and the market also lists that seat as a predicted flip.",
-  "governor": "In [[Georgia]], the Democrat Keisha Lance Bottoms gained ground by a sizable margin, and the market treats it as a predicted flip. In [[Nebraska]], the Republican Jim Pillen also strengthened noticeably. Over in [[Florida]], the Republican Byron Donalds saw a sizable drop in Polymarket odds.",
+  "governor": "In [[Texas]], Republican Greg Abbott's chances rose sharply in Polymarket odds, while in [[Nebraska]] the Republican Jim Pillen also gained sizable ground. The market sees [[Georgia]] as a predicted flip, and the Democrat there, Keisha Lance Bottoms, picked up a moderate amount of support. In Florida, the Republican Byron Donalds slipped by a moderate amount.",
   "house": "Polymarket odds show the Democrats favoured to win control of the House, and their chances edged up slightly. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp drop in chances, while in [[FL-09 (Orlando & Kissimmee)]] the Republican Dan Green slipped by a sizable margin in what the market calls a predicted flip. The Democrat Jamie Ager also lost ground, by a moderate amount, in [[NC-11 (Asheville & Hendersonville)]], another predicted flip."
  }
 }
