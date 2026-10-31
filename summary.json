@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-31T02:35:54+00:00",
+ "generated": "2026-10-31T02:47:53+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "2abc7457efd2f2f0",
+  "senate": "f887bd49fc6691bf",
   "governor": "d9b48056a6700239",
   "house": "e202ae4da5c8c494"
  },
@@ -82,7 +82,7 @@
   }
  },
  "summaries": {
-  "senate": "Democrats are the favoured party for Senate control in the Polymarket odds, and their chances moved up by a moderate amount today. In [[Kansas]], the Democrat Adam Hamilton gained ground by a moderate margin, and the market treats the seat as a predicted flip. The same goes for [[Texas]], where the Democrat James Talarico also gained moderately, and for the Democrat Troy Jackson, who made a similar advance.",
+  "senate": "Polymarket odds put the Democrats as the favoured party to control the Senate, and their chances edged up slightly today. Among individual races, the Democrat in [[Kansas]], Adam Hamilton, improved by a moderate amount, and the market shows a predicted flip there. The same is true in [[Texas]], where the Democrat James Talarico also moved up moderately.",
   "governor": "In [[Nevada]], the Democrat Aaron Ford saw a sizable drop in their chances in the Polymarket odds, and the market still sees the seat as a predicted flip. In [[Georgia]], the Democrat Keisha Lance Bottoms gained moderate ground, and that race is also a predicted flip. The Democrat Jonathan Kreiss-Tomkins in [[Alaska]] slipped slightly, in another race the market sees as a predicted flip.",
   "house": "The projected House count recently shifted to 239-196, down from 240-195, and Democrats still gain control. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp rise in the Polymarket odds against the Democrat Paul Barringer. In [[FL-14 (Plant City)]], the Democrat Kathy Castor gained sizable ground over the Republican Mike Beltran."
  }
