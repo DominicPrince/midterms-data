@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-30T22:53:22+00:00",
+ "generated": "2026-10-31T02:00:33+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "b3171eab2fef65f7",
-  "governor": "634adb477baf16b2",
-  "house": "6a138864d11ef6b0"
+  "senate": "3cc7e947657555cd",
+  "governor": "d9b48056a6700239",
+  "house": "03ecc304d0fc1a3e"
  },
  "projection": {
   "senate": {
@@ -29,9 +29,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "240-195",
-   "d": 240,
-   "r": 195,
+   "score": "239-196",
+   "d": 239,
+   "r": 196,
    "i": 0,
    "flips": [
     "AL-02 (Montgomery & Dothan)",
@@ -63,7 +63,6 @@
     "PA-07 (Allentown & Bethlehem)",
     "PA-08 (Scranton & Wilkes-Barre)",
     "PA-10 (Harrisburg & York)",
-    "SC-01 (Mount Pleasant & Summerville)",
     "TN-09 (Memphis & Smyrna)",
     "TX-09 (Pasadena & Baytown)",
     "TX-15 (Edinburg & Pharr)",
@@ -74,18 +73,17 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-10-30T22:53:04+00:00",
-   "was": "238-197",
-   "new_flips": [
-    "SC-01 (Mount Pleasant & Summerville)",
-    "WI-01 (Kenosha & Racine)"
-   ],
-   "lost_flips": []
+   "changed_at": "2026-10-31T02:00:09+00:00",
+   "was": "240-195",
+   "new_flips": [],
+   "lost_flips": [
+    "SC-01 (Mount Pleasant & Summerville)"
+   ]
   }
  },
  "summaries": {
-  "senate": "Polymarket odds show a sizable rise in the Democrats' chances of winning Senate control. The Democrats Adam Hamilton in [[Kansas]] and Troy Jackson in [[Maine]] each gained a good deal of ground, and the market now lists both as predicted flips. The projected Senate count is now 53-47, up from 52-48, with Kansas newly predicted to flip, and the result is that Democrats gain control.",
-  "governor": "In [[Georgia]], the Democrat Keisha Lance Bottoms gained ground in a moderate move, and the market treats the race as a predicted flip. The Democrat in [[Nevada]], Aaron Ford, lost some ground in a moderate slip, though that race is also a predicted flip. Elsewhere, Republican chances eased in a moderate way in [[Texas]], where Greg Abbott leads, and in Florida, where Byron Donalds leads.",
-  "house": "Polymarket odds show Democrats, still favoured to win the House, edging up slightly in their chances of taking control. The projected seat count recently changed to 240-195, up from 238-197, which would mean Democrats gain control. [[SC-01 (Mount Pleasant & Summerville)]] and [[WI-01 (Kenosha & Racine)]] are newly predicted flips. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp rise in their chances against the Democrat Paul Barringer."
+  "senate": "Polymarket odds for Democratic control of the Senate moved up by a moderate amount, and Democrats remain the favoured party. The Democrats Adam Hamilton in [[Kansas]] and Troy Jackson in [[Maine]] both gained ground, and the market sees each of those seats as a predicted flip. In [[Montana]], the Republican Kurt Alme also strengthened somewhat.",
+  "governor": "In [[Nevada]], the Democrat Aaron Ford saw a sizable drop in their chances in the Polymarket odds, and the market still sees the seat as a predicted flip. In [[Georgia]], the Democrat Keisha Lance Bottoms gained moderate ground, and that race is also a predicted flip. The Democrat Jonathan Kreiss-Tomkins in [[Alaska]] slipped slightly, in another race the market sees as a predicted flip.",
+  "house": "The projected House count has shifted slightly, now 239-196 in the Democrats' favor, down from 240-195, and it still shows Democrats gaining control. One district, South Carolina's Mount Pleasant and Summerville seat, is no longer a predicted flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott made a sharp gain in the Polymarket odds against the Democrat Paul Barringer."
  }
 }
