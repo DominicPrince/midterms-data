@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-31T02:47:53+00:00",
+ "generated": "2026-10-31T09:03:12+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "f887bd49fc6691bf",
-  "governor": "d9b48056a6700239",
-  "house": "e202ae4da5c8c494"
+  "senate": "eaa2da8774673c64",
+  "governor": "2fd15a139158a1f0",
+  "house": "9258f56cf8620343"
  },
  "projection": {
   "senate": {
@@ -82,8 +82,8 @@
   }
  },
  "summaries": {
-  "senate": "Polymarket odds put the Democrats as the favoured party to control the Senate, and their chances edged up slightly today. Among individual races, the Democrat in [[Kansas]], Adam Hamilton, improved by a moderate amount, and the market shows a predicted flip there. The same is true in [[Texas]], where the Democrat James Talarico also moved up moderately.",
-  "governor": "In [[Nevada]], the Democrat Aaron Ford saw a sizable drop in their chances in the Polymarket odds, and the market still sees the seat as a predicted flip. In [[Georgia]], the Democrat Keisha Lance Bottoms gained moderate ground, and that race is also a predicted flip. The Democrat Jonathan Kreiss-Tomkins in [[Alaska]] slipped slightly, in another race the market sees as a predicted flip.",
-  "house": "The projected House count recently shifted to 239-196, down from 240-195, and Democrats still gain control. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp rise in the Polymarket odds against the Democrat Paul Barringer. In [[FL-14 (Plant City)]], the Democrat Kathy Castor gained sizable ground over the Republican Mike Beltran."
+  "senate": "Polymarket odds show a moderate gain for the Democrats' chances of taking control of the Senate. The market also shows the Democrat Adam Hamilton gaining ground in [[Kansas]], a predicted flip, and the Democrat Mary Peltola moving up in [[Alaska]], also a predicted flip. In [[Nebraska]], the Republican Pete Ricketts saw a sizable rise in their chances.",
+  "governor": "The sharpest move was in [[Florida]], where Polymarket odds show a sharp drop in the chances of the Republican, Byron Donalds. In [[Georgia]], the Democrat Keisha Lance Bottoms gained ground by a sizable amount, and the market treats it as a predicted flip. In [[Kansas]], the Republican Ty Masterson saw a sizable fall in their chances, also a predicted flip.",
+  "house": "Polymarket odds show the Democrats favoured to win House control, with their chances edging up slightly. The biggest move came in [[FL-09 (Orlando & Kissimmee)]], where the Republican, Dan Green, saw a sharp drop in chances, and the market treats it as a predicted flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott gained ground sharply, while in [[FL-14 (Plant City)]] the Democrat Kathy Castor made a sizable improvement."
  }
 }
