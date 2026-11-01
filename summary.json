@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-31T23:43:42+00:00",
+ "generated": "2026-11-01T02:46:03+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "830ce46ea3307164",
-  "governor": "93d995e2430af80f",
-  "house": "96251fd9c603a3bf"
+  "senate": "38b59f34f2eeeb6e",
+  "governor": "98d866bb5747dc61",
+  "house": "b69febaf809f910b"
  },
  "projection": {
   "senate": {
@@ -81,8 +81,8 @@
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democratic control of the Senate rose slightly, with the party remaining the market's favourite. The biggest move was in [[Nebraska]], where the Republican, Pete Ricketts, saw a sizable gain in their chances. In [[Ohio]], the Democrat Sherrod Brown gained ground by a moderate amount, and the market shows it as a predicted flip.",
-  "governor": "The biggest move came in [[Nebraska]], where the Republican Jim Pillen saw a sizable gain in Polymarket odds. In [[Georgia]], the Democrat Keisha Lance Bottoms also gained ground, and the market now shows the race as a predicted flip. In [[Florida]], the Republican Byron Donalds slipped by a moderate amount.",
-  "house": "Democrats remain the favoured party to win control of the House, and Polymarket odds for them edged up slightly today. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp drop in chances against the Democrat Paul Barringer. In [[FL-09 (Orlando & Kissimmee)]], the Republican Dan Green slipped by a sizable amount against the Democrat Darren Soto, and the market still lists the district as a predicted flip. The projected seat count moved to 238-197, down from 239-196, with the result still that Democrats gain control."
+  "senate": "Polymarket odds show Democrats as the favoured party to control the Senate, with their chances edging up slightly. The biggest move came in [[Nebraska]], where the Republican Pete Ricketts saw a sizable gain in the market's view. In [[Ohio]], the Democrat Sherrod Brown gained ground moderately in what the market treats as a predicted flip, and the Democrat Mary Peltola in [[Alaska]] also improved moderately, another predicted flip.",
+  "governor": "The Republican in [[Nebraska]], Jim Pillen, saw a sharp rise in the Polymarket odds of holding the governor's office. Democrats Keisha Lance Bottoms in [[Georgia]] and Aaron Ford in [[Nevada]] each gained sizable ground, and the market treats both seats as predicted flips. In Florida, the Republican Byron Donalds slipped by a moderate amount.",
+  "house": "Polymarket odds show Democrats, the party the market favours to win House control, picking up a slight bit of ground. The biggest move came in [[NC-13 (Fuquay-Varina & Sanford)]], where the Republican Brad Knott's chances took a sharp drop. In [[FL-09 (Orlando & Kissimmee)]], the Republican Dan Green also lost a sizable amount of ground, and the market now shows a predicted flip there."
  }
 }
