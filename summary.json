@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-01T09:54:48+00:00",
+ "generated": "2026-11-01T13:20:14+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "dbe824ae86026848",
-  "governor": "4a8cf6d34e2ef6f0",
-  "house": "d57407d179903f4d"
+  "governor": "d048f209df6ad272",
+  "house": "aba0907e7493aa34"
  },
  "projection": {
   "senate": {
@@ -83,7 +83,7 @@
  },
  "summaries": {
   "senate": "Polymarket odds for Democrats to take the Senate improved moderately, with the party remaining the market's favoured side. In [[Michigan]], the Democrat Abdul El-Sayed gained moderate ground. In [[Nebraska]], the Republican Pete Ricketts saw a moderate drop in their chances.",
-  "governor": "The biggest move came in [[Nebraska]], where the Republican Jim Pillen saw a sharp rise in Polymarket odds. In [[Georgia]], the Democrat Keisha Lance Bottoms gained a sizable amount of ground, and the market treats the race as a predicted flip. Moderate gains for the Republicans Greg Abbott and Byron Donalds also showed up in Texas and Florida.",
-  "house": "The projected House count has shifted to 239-196, up from 238-197, and the market says Democrats gain control, with [[WI-01 (Kenosha & Racine)]] newly predicted as a flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp drop in their chances against the Democrat Paul Barringer. In [[FL-09 (Orlando & Kissimmee)]], the Republican Dan Green gained sizable ground, and the market treats it as a predicted flip."
+  "governor": "Three governor's races saw moderate gains for the leader, all of them shown as predicted flips: [[Georgia]], where the Democrat Keisha Lance Bottoms gained ground, [[Kansas]], where the Republican Ty Masterson improved, and [[Alaska]], where the Democrat Jonathan Kreiss-Tomkins moved up. In Texas, the Republican Greg Abbott also saw a moderate rise in Polymarket odds.",
+  "house": "The biggest move in the House today came in [[NC-03 (Greenville & Jacksonville)]], where Polymarket odds show a sharp drop in the Republican Greg Murphy's chances against the Democrat Raymond Smith Jr. In [[MO-02 (O'Fallon & Chesterfield)]], the Republican Ann Wagner also lost ground by a moderate amount, with the Democrat Fred Wellman the other candidate in the race. Meanwhile, the Republican Anna Paulina Luna gained moderate ground in [[FL-13 (Clearwater & Largo)]], where the Democrat Leela Gray is also running."
  }
 }
