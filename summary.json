@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-01T16:36:17+00:00",
+ "generated": "2026-11-01T19:07:13+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "2abbcd4191dd91c1",
+  "senate": "8fbb1b45b2697a22",
   "governor": "d048f209df6ad272",
-  "house": "ae4263cff12707de"
+  "house": "9a1496d6f168035c"
  },
  "projection": {
   "senate": {
@@ -82,8 +82,8 @@
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democrats to take control of the Senate edged up slightly. In [[Alaska]], the Democrat Mary Peltola gained a moderate amount of ground, and the market shows it as a predicted flip. In [[Iowa]], Ashley Hinson's chances also rose moderately.",
+  "senate": "The sharpest move today came in [[Michigan]], where the Democrat Abdul El-Sayed saw a steep drop in their chances. In [[Alaska]], a predicted flip, the Democrat Mary Peltola gained ground by a moderate amount. The Republican Ashley Hinson also strengthened in Iowa, with a moderate rise in Polymarket odds.",
   "governor": "Three governor's races saw moderate gains for the leader, all of them shown as predicted flips: [[Georgia]], where the Democrat Keisha Lance Bottoms gained ground, [[Kansas]], where the Republican Ty Masterson improved, and [[Alaska]], where the Democrat Jonathan Kreiss-Tomkins moved up. In Texas, the Republican Greg Abbott also saw a moderate rise in Polymarket odds.",
-  "house": "In [[FL-13 (Clearwater & Largo)]], the Republican Anna Paulina Luna saw a sizable rise in their chances, according to Polymarket odds. In [[MO-02 (O'Fallon & Chesterfield)]], the Republican Ann Wagner lost a moderate amount of ground, while the market also showed a slight dip for the Republican Brandon Herrera in [[TX-23 (Del Rio & Eagle Pass)]]."
+  "house": "The biggest move in the House today was in [[FL-13 (Clearwater & Largo)]], where Polymarket odds show a sizable rise in the chances of the Republican, Anna Paulina Luna. Elsewhere, the market shows a moderate slip for the Republican in [[NC-13 (Fuquay-Varina & Sanford)]], Brad Knott. The Republican in [[TX-23 (Del Rio & Eagle Pass)]], Brandon Herrera, also saw a moderate decline."
  }
 }
