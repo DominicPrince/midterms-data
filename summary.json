@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-01T14:34:50+00:00",
+ "generated": "2026-11-01T16:36:17+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "2abbcd4191dd91c1",
   "governor": "d048f209df6ad272",
-  "house": "da93ad4e96a98889"
+  "house": "ae4263cff12707de"
  },
  "projection": {
   "senate": {
@@ -84,6 +84,6 @@
  "summaries": {
   "senate": "Polymarket odds for Democrats to take control of the Senate edged up slightly. In [[Alaska]], the Democrat Mary Peltola gained a moderate amount of ground, and the market shows it as a predicted flip. In [[Iowa]], Ashley Hinson's chances also rose moderately.",
   "governor": "Three governor's races saw moderate gains for the leader, all of them shown as predicted flips: [[Georgia]], where the Democrat Keisha Lance Bottoms gained ground, [[Kansas]], where the Republican Ty Masterson improved, and [[Alaska]], where the Democrat Jonathan Kreiss-Tomkins moved up. In Texas, the Republican Greg Abbott also saw a moderate rise in Polymarket odds.",
-  "house": "In [[FL-13 (Clearwater & Largo)]], the Republican Anna Paulina Luna became a bit more likely to hold the seat, according to Polymarket odds. In [[MO-02 (O'Fallon & Chesterfield)]], the Republican Ann Wagner slipped moderately, and in [[TX-23 (Del Rio & Eagle Pass)]], the Republican Brandon Herrera also lost some ground against the Democrat Katy Padilla Stout."
+  "house": "In [[FL-13 (Clearwater & Largo)]], the Republican Anna Paulina Luna saw a sizable rise in their chances, according to Polymarket odds. In [[MO-02 (O'Fallon & Chesterfield)]], the Republican Ann Wagner lost a moderate amount of ground, while the market also showed a slight dip for the Republican Brandon Herrera in [[TX-23 (Del Rio & Eagle Pass)]]."
  }
 }
