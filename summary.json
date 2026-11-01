@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-01T06:47:29+00:00",
+ "generated": "2026-11-01T09:54:48+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "10341a80469e6e39",
+  "senate": "dbe824ae86026848",
   "governor": "4a8cf6d34e2ef6f0",
-  "house": "8a7109ed1a7eee49"
+  "house": "d57407d179903f4d"
  },
  "projection": {
   "senate": {
@@ -82,8 +82,8 @@
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democratic control of the Senate moved up moderately, and the Democrats remain the favoured party. In [[Michigan]], the Democrat Abdul El-Sayed saw a sizable rise in their chances. Republicans also gained ground in [[Iowa]], where Ashley Hinson's chances climbed sizably, and in [[Nebraska]], where Pete Ricketts moved up by a similar amount.",
+  "senate": "Polymarket odds for Democrats to take the Senate improved moderately, with the party remaining the market's favoured side. In [[Michigan]], the Democrat Abdul El-Sayed gained moderate ground. In [[Nebraska]], the Republican Pete Ricketts saw a moderate drop in their chances.",
   "governor": "The biggest move came in [[Nebraska]], where the Republican Jim Pillen saw a sharp rise in Polymarket odds. In [[Georgia]], the Democrat Keisha Lance Bottoms gained a sizable amount of ground, and the market treats the race as a predicted flip. Moderate gains for the Republicans Greg Abbott and Byron Donalds also showed up in Texas and Florida.",
-  "house": "The biggest move is in [[NC-13 (Fuquay-Varina & Sanford)]], where the Republican Brad Knott saw a sharp drop in chances against the Democrat Paul Barringer. In [[FL-09 (Orlando & Kissimmee)]], the Republican Dan Green edged up slightly against the Democrat Darren Soto, and the market still lists it as a predicted flip. The projected House count now stands at 239-196, up from 238-197, with [[WI-01 (Kenosha & Racine)]] newly predicted to flip, and the result is that Democrats gain control."
+  "house": "The projected House count has shifted to 239-196, up from 238-197, and the market says Democrats gain control, with [[WI-01 (Kenosha & Racine)]] newly predicted as a flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp drop in their chances against the Democrat Paul Barringer. In [[FL-09 (Orlando & Kissimmee)]], the Republican Dan Green gained sizable ground, and the market treats it as a predicted flip."
  }
 }
