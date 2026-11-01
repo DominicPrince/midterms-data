@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-01T02:46:03+00:00",
+ "generated": "2026-11-01T06:22:47+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "38b59f34f2eeeb6e",
-  "governor": "98d866bb5747dc61",
-  "house": "b69febaf809f910b"
+  "governor": "4a8cf6d34e2ef6f0",
+  "house": "4ae7670f7c9e7fa6"
  },
  "projection": {
   "senate": {
@@ -82,7 +82,7 @@
  },
  "summaries": {
   "senate": "Polymarket odds show Democrats as the favoured party to control the Senate, with their chances edging up slightly. The biggest move came in [[Nebraska]], where the Republican Pete Ricketts saw a sizable gain in the market's view. In [[Ohio]], the Democrat Sherrod Brown gained ground moderately in what the market treats as a predicted flip, and the Democrat Mary Peltola in [[Alaska]] also improved moderately, another predicted flip.",
-  "governor": "The Republican in [[Nebraska]], Jim Pillen, saw a sharp rise in the Polymarket odds of holding the governor's office. Democrats Keisha Lance Bottoms in [[Georgia]] and Aaron Ford in [[Nevada]] each gained sizable ground, and the market treats both seats as predicted flips. In Florida, the Republican Byron Donalds slipped by a moderate amount.",
-  "house": "Polymarket odds show Democrats, the party the market favours to win House control, picking up a slight bit of ground. The biggest move came in [[NC-13 (Fuquay-Varina & Sanford)]], where the Republican Brad Knott's chances took a sharp drop. In [[FL-09 (Orlando & Kissimmee)]], the Republican Dan Green also lost a sizable amount of ground, and the market now shows a predicted flip there."
+  "governor": "The biggest move came in [[Nebraska]], where the Republican Jim Pillen saw a sharp rise in Polymarket odds. In [[Georgia]], the Democrat Keisha Lance Bottoms gained a sizable amount of ground, and the market treats the race as a predicted flip. Moderate gains for the Republicans Greg Abbott and Byron Donalds also showed up in Texas and Florida.",
+  "house": "The Republican in [[NC-13 (Fuquay-Varina & Sanford)]], Brad Knott, saw a sharp drop in Polymarket odds, the biggest move in the House today. In [[FL-09 (Orlando & Kissimmee)]], the Republican Dan Green edged up slightly, and the market treats that seat as a predicted flip. The Republican in [[NC-09 (Fayetteville & Burlington)]], Richard Hudson, also slipped a little."
  }
 }
