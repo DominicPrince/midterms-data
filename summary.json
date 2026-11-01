@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-01T20:59:49+00:00",
+ "generated": "2026-11-01T23:01:53+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "c163f1184730964e",
-  "governor": "e483eb6525369405",
+  "governor": "2308d8c132677090",
   "house": "5a460ecf7df595d8"
  },
  "projection": {
@@ -83,7 +83,7 @@
  },
  "summaries": {
   "senate": "The biggest move came in [[Michigan]], where Polymarket odds show a sizable drop in the chances of the Democrat Abdul El-Sayed. In [[Maine]], the Democrat Troy Jackson gained ground in a race the market lists as a predicted flip. In [[Iowa]], the Republican Ashley Hinson also moved up modestly.",
-  "governor": "In [[Georgia]], Polymarket odds moved moderately in favor of the Democrat, Keisha Lance Bottoms, in a race the market lists as a predicted flip. The Democrat in [[Oregon]], Tina Kotek, also gained ground by a moderate amount. Elsewhere, the Republican in [[Kansas]], Ty Masterson, made a slight gain in another predicted flip.",
+  "governor": "In [[Georgia]], the Democrat Keisha Lance Bottoms gained a moderate amount of ground in Polymarket odds, and the market now calls it a predicted flip. In [[Florida]], the Republican Byron Donalds slipped by a moderate margin. In [[Kansas]], the Republican Ty Masterson edged up slightly, and that race is also a predicted flip.",
   "house": "The biggest move in the House today came in [[NC-13 (Fuquay-Varina & Sanford)]], where Polymarket odds show a sizable drop in the chances of the Republican, Brad Knott, against the Democrat Paul Barringer. In [[TX-23 (Del Rio & Eagle Pass)]], the Republican Brandon Herrera also lost ground, though by a moderate amount, with the Democrat being Katy Padilla Stout. Elsewhere, the market moved the other way in [[FL-13 (Clearwater & Largo)]], where the Republican Anna Paulina Luna gained moderate ground against the Democrat Leela Gray."
  }
 }
