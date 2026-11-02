@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-02T02:43:23+00:00",
+ "generated": "2026-11-02T02:52:57+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "03361afec2949f97",
-  "governor": "295efe156c2e24c3",
-  "house": "913ea37b62f1c371"
+  "senate": "7535e25296579346",
+  "governor": "68798401bbdffc01",
+  "house": "823d1a0ea83693f7"
  },
  "projection": {
   "senate": {
@@ -29,9 +29,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "239-196",
-   "d": 239,
-   "r": 196,
+   "score": "240-195",
+   "d": 240,
+   "r": 195,
    "i": 0,
    "flips": [
     "AL-02 (Montgomery & Dothan)",
@@ -73,17 +73,15 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-01T06:46:54+00:00",
-   "was": "238-197",
-   "new_flips": [
-    "WI-01 (Kenosha & Racine)"
-   ],
+   "changed_at": "2026-11-02T02:52:35+00:00",
+   "was": "239-196",
+   "new_flips": [],
    "lost_flips": []
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Senate control moved slightly toward the Democrats, who remain the favoured party. The Democrats Adam Hamilton in [[Kansas]] and Troy Jackson in [[Maine]] both gained ground, with the Kansas move sharp and the Maine move moderate, and the market treats each as a predicted flip. In [[Florida]], the Republican Ashley Moody's chances slipped by a sizable amount.",
-  "governor": "The biggest move in Polymarket's governor odds came in [[Vermont]], where the chances of the Republican, Phil Scott, fell sharply. In [[Texas]], the market also cut the Republican Greg Abbott's chances by a sizable amount, while in [[Oregon]] the Democrat Tina Kotek gained a moderate amount of ground.",
-  "house": "The biggest move came in [[TX-23 (Del Rio & Eagle Pass)]], where the Republican Brandon Herrera saw a moderate drop in the market's odds for their chances. In [[NY-17 (Spring Valley & Ossining)]], the Democrat Cait Conley gained slight ground in a race the market sees as a predicted flip. The Republican Brad Knott in [[NC-13 (Fuquay-Varina & Sanford)]] also slipped a little in the Polymarket odds."
+  "senate": "Polymarket odds put the Democrats in the favoured position for Senate control, with a slight gain in their chances today. The Democrat in [[Kansas]], Adam Hamilton, gained ground sharply and is now a predicted flip, while the Democrat in [[Maine]], Troy Jackson, also moved up by a moderate amount in another predicted flip. Over in [[Florida]], the chances of the Republican Ashley Moody slipped by a sizable amount.",
+  "governor": "The biggest move came in [[Vermont]], where the Republican Phil Scott's chances took a sharp drop in the Polymarket odds. In [[Texas]], the Republican Greg Abbott also slipped by a sizable margin. In [[New Hampshire]], the market shows a moderate decline for the Republican Kelly Ayotte.",
+  "house": "The Polymarket projected House count recently changed to 240-195, up from 239-196, which would mean Democrats gain control. The biggest move came in [[TX-23 (Del Rio & Eagle Pass)]], where the Democrat Katy Padilla Stout's chances rose sharply against the Republican Brandon Herrera. In [[NY-17 (Spring Valley & Ossining)]], a predicted flip, the Democrat Cait Conley edged up slightly in the market's view."
  }
 }
