@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-01T23:11:27+00:00",
+ "generated": "2026-11-02T01:11:32+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "c163f1184730964e",
-  "governor": "2308d8c132677090",
-  "house": "3be09e5d258a9082"
+  "senate": "d8cf4a17274e1705",
+  "governor": "ad953657824833e7",
+  "house": "2476c607c54e95b7"
  },
  "projection": {
   "senate": {
@@ -82,8 +82,8 @@
   }
  },
  "summaries": {
-  "senate": "The biggest move came in [[Michigan]], where Polymarket odds show a sizable drop in the chances of the Democrat Abdul El-Sayed. In [[Maine]], the Democrat Troy Jackson gained ground in a race the market lists as a predicted flip. In [[Iowa]], the Republican Ashley Hinson also moved up modestly.",
-  "governor": "In [[Georgia]], the Democrat Keisha Lance Bottoms gained a moderate amount of ground in the Polymarket odds, and the market shows it as a predicted flip. In [[Florida]], the Republican Byron Donalds saw a moderate dip in their chances. The Republican Ty Masterson in [[Kansas]] also edged up slightly, another race the market lists as a predicted flip.",
-  "house": "In [[NY-17 (Spring Valley & Ossining)]], the Democrat Cait Conley gained ground by a moderate amount, and the market calls it a predicted flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the chances of the Republican Brad Knott slipped moderately. The Republican Anna Paulina Luna in [[FL-13 (Clearwater & Largo)]] also moved up by a moderate margin."
+  "senate": "The biggest move in the Senate market is in [[Kansas]], where the Democrat Adam Hamilton saw a sizable rise in Polymarket odds, and the race is a predicted flip. The market also moved in [[Maine]], where the Democrat Troy Jackson gained ground in a race the market sees as a predicted flip. In [[Michigan]], the Democrat Abdul El-Sayed lost some ground.",
+  "governor": "In [[Florida]], the Republican Byron Donalds saw a moderate drop in their chances, while in [[Oregon]] the Democrat Tina Kotek gained moderate ground. In [[Nevada]], the Democrat Aaron Ford edged up slightly in the Polymarket odds, and the market lists the race as a predicted flip.",
+  "house": "The biggest move was in [[NC-13 (Fuquay-Varina & Sanford)]], where the Republican Brad Knott saw a moderate drop in the Polymarket odds against the Democrat Paul Barringer. In [[NY-17 (Spring Valley & Ossining)]], a predicted flip, the Democrat Cait Conley gained slight ground against the Republican Mike Lawler. The Republican Nick LaLota also edged up a little in [[NY-01 (Lake Grove & Port Jefferson)]], where the Democrat Chris Gallant is the other candidate."
  }
 }
