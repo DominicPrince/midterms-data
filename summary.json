@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-02T20:59:14+00:00",
+ "generated": "2026-11-02T22:01:12+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "cf150e2fd91fd3df",
-  "governor": "9385213b72b71fa9",
-  "house": "345a137f6fbdc797"
+  "senate": "4a8fe541ca58b77b",
+  "governor": "79771ad983530e13",
+  "house": "1ac77fec2b1eec59"
  },
  "projection": {
   "senate": {
@@ -80,8 +80,8 @@
   }
  },
  "summaries": {
-  "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds over the past day. In [[Kansas]], the Democrat Adam Hamilton gained ground by a sharp margin, and the market treats the seat as a predicted flip. In [[Iowa]], the Republican Ashley Hinson saw a sharp drop in their chances, while in [[South Carolina]] the Republican Darline Graham Nordone slipped by a sizable amount.",
-  "governor": "The Republican candidate's chances took a sizable drop in the Polymarket odds for [[Kansas]], where Ty Masterson is the leader and the market sees a predicted flip. Another sizable fall came in [[Texas]], where Greg Abbott's chances declined against the Democrat Gina Hinojosa. In [[Vermont]], the market also showed a sizable decline for the Republican Phil Scott.",
-  "house": "Polymarket odds for Democratic control of the House edged up slightly, with Democrats still the favoured party. The biggest move came in [[NY-17 (Spring Valley & Ossining)]], where the Democrat Cait Conley saw a sharp drop in their chances against the Republican Mike Lawler, and the market sees it as a predicted flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott gained ground sharply against the Democrat Paul Barringer, while the Republican French Hill in [[AR-02 (Little Rock & Conway)]] slipped by a sizable margin."
+  "senate": "Polymarket odds show a sizable rise in the Democrats' chances of winning control of the Senate. In [[Kansas]], the Democrat Adam Hamilton gained sharply and the market now sees a predicted flip. In [[Iowa]], the Republican Ashley Hinson saw a sharp drop in their chances, and in [[Michigan]], the Democrat Abdul El-Sayed gained ground.",
+  "governor": "In [[Kansas]], a predicted flip, the Republican Ty Masterson saw a sizable drop in chances. Republican incumbents slipped by a sizable amount in [[Texas]] and [[Vermont]] as well, with Greg Abbott and Phil Scott each seeing their odds fall. Kelly Ayotte in New Hampshire also lost ground, according to the Polymarket odds.",
+  "house": "The biggest move came in [[NY-17 (Spring Valley & Ossining)]], where the Democrat Cait Conley saw a sharp drop in their chances, and the market lists the seat as a predicted flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott gained ground sharply. Over in [[AR-02 (Little Rock & Conway)]], the Republican French Hill slipped by a sizable amount in Polymarket odds."
  }
 }
