@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-02T01:11:32+00:00",
+ "generated": "2026-11-02T02:43:23+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "d8cf4a17274e1705",
-  "governor": "ad953657824833e7",
-  "house": "2476c607c54e95b7"
+  "senate": "03361afec2949f97",
+  "governor": "295efe156c2e24c3",
+  "house": "913ea37b62f1c371"
  },
  "projection": {
   "senate": {
@@ -82,8 +82,8 @@
   }
  },
  "summaries": {
-  "senate": "The biggest move in the Senate market is in [[Kansas]], where the Democrat Adam Hamilton saw a sizable rise in Polymarket odds, and the race is a predicted flip. The market also moved in [[Maine]], where the Democrat Troy Jackson gained ground in a race the market sees as a predicted flip. In [[Michigan]], the Democrat Abdul El-Sayed lost some ground.",
-  "governor": "In [[Florida]], the Republican Byron Donalds saw a moderate drop in their chances, while in [[Oregon]] the Democrat Tina Kotek gained moderate ground. In [[Nevada]], the Democrat Aaron Ford edged up slightly in the Polymarket odds, and the market lists the race as a predicted flip.",
-  "house": "The biggest move was in [[NC-13 (Fuquay-Varina & Sanford)]], where the Republican Brad Knott saw a moderate drop in the Polymarket odds against the Democrat Paul Barringer. In [[NY-17 (Spring Valley & Ossining)]], a predicted flip, the Democrat Cait Conley gained slight ground against the Republican Mike Lawler. The Republican Nick LaLota also edged up a little in [[NY-01 (Lake Grove & Port Jefferson)]], where the Democrat Chris Gallant is the other candidate."
+  "senate": "Polymarket odds for Senate control moved slightly toward the Democrats, who remain the favoured party. The Democrats Adam Hamilton in [[Kansas]] and Troy Jackson in [[Maine]] both gained ground, with the Kansas move sharp and the Maine move moderate, and the market treats each as a predicted flip. In [[Florida]], the Republican Ashley Moody's chances slipped by a sizable amount.",
+  "governor": "The biggest move in Polymarket's governor odds came in [[Vermont]], where the chances of the Republican, Phil Scott, fell sharply. In [[Texas]], the market also cut the Republican Greg Abbott's chances by a sizable amount, while in [[Oregon]] the Democrat Tina Kotek gained a moderate amount of ground.",
+  "house": "The biggest move came in [[TX-23 (Del Rio & Eagle Pass)]], where the Republican Brandon Herrera saw a moderate drop in the market's odds for their chances. In [[NY-17 (Spring Valley & Ossining)]], the Democrat Cait Conley gained slight ground in a race the market sees as a predicted flip. The Republican Brad Knott in [[NC-13 (Fuquay-Varina & Sanford)]] also slipped a little in the Polymarket odds."
  }
 }
