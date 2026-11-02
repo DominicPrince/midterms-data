@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-02T11:25:43+00:00",
+ "generated": "2026-11-02T15:43:17+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "760183ab1d469a94",
   "governor": "0535dace175d3411",
-  "house": "56bb89f14c65c7a3"
+  "house": "5124ee2db2b3a04a"
  },
  "projection": {
   "senate": {
@@ -82,6 +82,6 @@
  "summaries": {
   "senate": "The biggest moves in the Senate came in [[Kansas]] and [[Maine]], where the Democrats Adam Hamilton and Troy Jackson each gained sharp ground in the Polymarket odds, and the market now counts both as predicted flips. Elsewhere, Julia Letlow's chances in [[Louisiana]] took a sizable drop, and Ashley Hinson saw a similarly sizable slip in Iowa.",
   "governor": "The biggest moves in the Governor market came in [[Vermont]] and [[New Hampshire]], where Polymarket odds show sharp drops in the chances of the Republicans Phil Scott and Kelly Ayotte. In [[Kansas]], the Republican Ty Masterson saw a sizable decline, and the market lists it as a predicted flip. Texas also moved, with a sizable drop for the Republican Greg Abbott.",
-  "house": "The projected House count shifted slightly in the last day, now at 239-196, down from 240-195, which still means Democrats gain control. The Democrat Cait Conley in [[NY-17 (Spring Valley & Ossining)]], a predicted flip, saw a sizable drop in their chances. In [[CO-03 (Pueblo & Grand Junction)]], the Republican Jeff Hurd also lost a sizable amount of ground."
+  "house": "The biggest move came in [[NY-17 (Spring Valley & Ossining)]], where the Democrat Cait Conley saw a sizable drop in their chances, and the market still shows a predicted flip there. In [[CO-03 (Pueblo & Grand Junction)]], the Republican Jeff Hurd slipped by a moderate amount against the Democrat Dwayne Romero. In [[MO-02 (O'Fallon & Chesterfield)]], the Republican Ann Wagner gained ground, with a moderate rise in their chances over the Democrat Fred Wellman."
  }
 }
