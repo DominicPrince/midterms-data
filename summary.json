@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-02T19:00:35+00:00",
+ "generated": "2026-11-02T20:59:14+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "760183ab1d469a94",
+  "senate": "cf150e2fd91fd3df",
   "governor": "9385213b72b71fa9",
-  "house": "48874944d4e34948"
+  "house": "345a137f6fbdc797"
  },
  "projection": {
   "senate": {
@@ -80,8 +80,8 @@
   }
  },
  "summaries": {
-  "senate": "The biggest moves in the Senate came in [[Kansas]] and [[Maine]], where the Democrats Adam Hamilton and Troy Jackson each gained sharp ground in the Polymarket odds, and the market now counts both as predicted flips. Elsewhere, Julia Letlow's chances in [[Louisiana]] took a sizable drop, and Ashley Hinson saw a similarly sizable slip in Iowa.",
+  "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds over the past day. In [[Kansas]], the Democrat Adam Hamilton gained ground by a sharp margin, and the market treats the seat as a predicted flip. In [[Iowa]], the Republican Ashley Hinson saw a sharp drop in their chances, while in [[South Carolina]] the Republican Darline Graham Nordone slipped by a sizable amount.",
   "governor": "The Republican candidate's chances took a sizable drop in the Polymarket odds for [[Kansas]], where Ty Masterson is the leader and the market sees a predicted flip. Another sizable fall came in [[Texas]], where Greg Abbott's chances declined against the Democrat Gina Hinojosa. In [[Vermont]], the market also showed a sizable decline for the Republican Phil Scott.",
-  "house": "The Democrats' chances of winning control of the House edged up slightly, according to Polymarket odds. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp gain in their chances. In [[NY-17 (Spring Valley & Ossining)]], a predicted flip, the Democrat Cait Conley slipped by a sizable amount, as did the Republican French Hill in [[AR-02 (Little Rock & Conway)]]."
+  "house": "Polymarket odds for Democratic control of the House edged up slightly, with Democrats still the favoured party. The biggest move came in [[NY-17 (Spring Valley & Ossining)]], where the Democrat Cait Conley saw a sharp drop in their chances against the Republican Mike Lawler, and the market sees it as a predicted flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott gained ground sharply against the Democrat Paul Barringer, while the Republican French Hill in [[AR-02 (Little Rock & Conway)]] slipped by a sizable margin."
  }
 }
