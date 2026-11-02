@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-02T08:29:29+00:00",
+ "generated": "2026-11-02T11:25:43+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "3d885ad218da31d5",
+  "senate": "760183ab1d469a94",
   "governor": "0535dace175d3411",
-  "house": "283d1f8ac80cc74b"
+  "house": "56bb89f14c65c7a3"
  },
  "projection": {
   "senate": {
@@ -80,8 +80,8 @@
   }
  },
  "summaries": {
-  "senate": "The biggest move came in [[Kansas]], where the Democrat Adam Hamilton gained ground sharply, and the market now treats the seat as a predicted flip. In [[Maine]], the Democrat Troy Jackson also rose by a sizable margin, another predicted flip in the Polymarket odds. Republicans saw sizable drops in their chances elsewhere, including Julia Letlow in [[Louisiana]].",
+  "senate": "The biggest moves in the Senate came in [[Kansas]] and [[Maine]], where the Democrats Adam Hamilton and Troy Jackson each gained sharp ground in the Polymarket odds, and the market now counts both as predicted flips. Elsewhere, Julia Letlow's chances in [[Louisiana]] took a sizable drop, and Ashley Hinson saw a similarly sizable slip in Iowa.",
   "governor": "The biggest moves in the Governor market came in [[Vermont]] and [[New Hampshire]], where Polymarket odds show sharp drops in the chances of the Republicans Phil Scott and Kelly Ayotte. In [[Kansas]], the Republican Ty Masterson saw a sizable decline, and the market lists it as a predicted flip. Texas also moved, with a sizable drop for the Republican Greg Abbott.",
-  "house": "The projected House count shifted to 239-196, down from 240-195, which still means Democrats gain control. In [[NY-17 (Spring Valley & Ossining)]], a predicted flip, the Democrat Cait Conley saw a sizable decline in the market's view of their chances, with Republican Mike Lawler also in the race. In [[CO-03 (Pueblo & Grand Junction)]], the Republican Jeff Hurd, who faces the Democrat Dwayne Romero, slipped by a moderate amount in the Polymarket odds."
+  "house": "The projected House count shifted slightly in the last day, now at 239-196, down from 240-195, which still means Democrats gain control. The Democrat Cait Conley in [[NY-17 (Spring Valley & Ossining)]], a predicted flip, saw a sizable drop in their chances. In [[CO-03 (Pueblo & Grand Junction)]], the Republican Jeff Hurd also lost a sizable amount of ground."
  }
 }
