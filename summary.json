@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-03T23:52:47+00:00",
+ "generated": "2026-11-03T23:58:29+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "eafaf3a086be6682",
-  "governor": "e2e14988a414e466",
-  "house": "04dbcf62a6f04736"
+  "governor": "f32f03f3f862a825",
+  "house": "59c7fd8e47b3fe56"
  },
  "projection": {
   "senate": {
@@ -30,12 +30,13 @@
    "lost_flips": []
   },
   "house": {
-   "score": "245-190",
-   "d": 245,
-   "r": 190,
+   "score": "248-187",
+   "d": 248,
+   "r": 187,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
+    "AZ-02 (Flagstaff & Maricopa)",
     "AZ-06 (Tucson & Casa Grande)",
     "CA-01 (Santa Rosa & Chico)",
     "CA-03 (Folsom & Rancho Cordova)",
@@ -63,6 +64,7 @@
     "NC-13 (Fuquay-Varina & Sanford)",
     "NE-02 (Omaha & Gretna)",
     "NJ-07 (Linden & Westfield)",
+    "NY-17 (Spring Valley & Ossining)",
     "OH-07 (Parma & Strongsville)",
     "PA-01 (Bristol & Morrisville)",
     "PA-07 (Allentown & Bethlehem)",
@@ -75,27 +77,23 @@
     "UT-01 (Salt Lake City & West Valley City)",
     "VA-01 (Williamsburg & Poquoson)",
     "VA-02 (Virginia Beach & Chesapeake)",
+    "VA-05 (Lynchburg & Charlottesville)",
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-03T23:52:20+00:00",
-   "was": "240-195",
+   "changed_at": "2026-11-03T23:58:17+00:00",
+   "was": "245-190",
    "new_flips": [
-    "CO-03 (Pueblo & Grand Junction)",
-    "IN-05 (Fishers & Carmel)",
-    "MO-02 (O'Fallon & Chesterfield)",
-    "NC-03 (Greenville & Jacksonville)",
-    "NC-09 (Fayetteville & Burlington)",
-    "NC-13 (Fuquay-Varina & Sanford)"
+    "AZ-02 (Flagstaff & Maricopa)",
+    "NY-17 (Spring Valley & Ossining)",
+    "VA-05 (Lynchburg & Charlottesville)"
    ],
-   "lost_flips": [
-    "NY-17 (Spring Valley & Ossining)"
-   ]
+   "lost_flips": []
   }
  },
  "summaries": {
   "senate": "Polymarket odds for Democratic control of the Senate rose sharply, and the party is the market's favoured side. The Democratic candidates in four races also gained ground sharply: Josh Turek in [[Iowa]], Adam Hamilton in [[Kansas]], James Talarico in [[Texas]] and Sherrod Brown in Ohio. The market lists each of those four contests as a predicted flip.",
-  "governor": "The biggest move came in [[Nevada]], where the Democrat Aaron Ford's chances rose sharply in the Polymarket odds, and the market treats the race as a predicted flip. In [[Kansas]], the Republican Ty Masterson saw a sharp drop in the odds, and that race is also a predicted flip. The Democrat Keisha Lance Bottoms also improved in the market's view in Georgia, a sizable move.",
-  "house": "The Democrats' chances of winning House control slipped slightly in the Polymarket odds today. In [[NJ-02 (Vineland & Atlantic City)]], the Republican Jeff Van Drew saw a sharp drop in chances against the Democrat Zack Mullock, while in [[VA-01 (Williamsburg & Poquoson)]] the Democrat Shannon Taylor gained sharply on the Republican Rob Wittman, a predicted flip. The projected seat count also shifted to 240-195, down from 241-194, which still means Democrats gain control."
+  "governor": "Polymarket odds shifted sharply in several governor's races, with three of them now showing a predicted flip. In [[Nevada]], the Democrat Aaron Ford gained a great deal of ground, and in [[Georgia]], the Democrat Keisha Lance Bottoms also rose sharply. In [[Kansas]], the Republican Ty Masterson saw a steep drop in chances.",
+  "house": "Polymarket odds show the Democrats' chances of winning control of the House rose by a moderate amount today. The projected seat count recently changed to 248-187, up from 245-190, which means Democrats gain control. Three races are newly predicted flips: [[AZ-02 (Flagstaff & Maricopa)]], [[NY-17 (Spring Valley & Ossining)]] and [[VA-05 (Lynchburg & Charlottesville)]]."
  }
 }
