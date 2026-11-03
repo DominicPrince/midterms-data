@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T23:52:02+00:00",
+ "generated": "2026-11-03T23:52:47+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
@@ -30,9 +30,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "243-192",
-   "d": 243,
-   "r": 192,
+   "score": "245-190",
+   "d": 245,
+   "r": 190,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -57,6 +57,8 @@
     "MI-10 (Warren & Sterling Heights)",
     "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
+    "NC-03 (Greenville & Jacksonville)",
+    "NC-09 (Fayetteville & Burlington)",
     "NC-11 (Asheville & Hendersonville)",
     "NC-13 (Fuquay-Varina & Sanford)",
     "NE-02 (Omaha & Gretna)",
@@ -76,12 +78,14 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-03T23:51:37+00:00",
+   "changed_at": "2026-11-03T23:52:20+00:00",
    "was": "240-195",
    "new_flips": [
     "CO-03 (Pueblo & Grand Junction)",
     "IN-05 (Fishers & Carmel)",
     "MO-02 (O'Fallon & Chesterfield)",
+    "NC-03 (Greenville & Jacksonville)",
+    "NC-09 (Fayetteville & Burlington)",
     "NC-13 (Fuquay-Varina & Sanford)"
    ],
    "lost_flips": [
