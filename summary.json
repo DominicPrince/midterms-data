@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-03T03:47:21+00:00",
+ "generated": "2026-11-03T10:14:50+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "8a55b6bf8bc885f5",
   "governor": "83e7309fd33a5be1",
-  "house": "667d98a0fb14c751"
+  "house": "1bdc8d96c0713704"
  },
  "projection": {
   "senate": {
@@ -30,9 +30,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "240-195",
-   "d": 240,
-   "r": 195,
+   "score": "241-194",
+   "d": 241,
+   "r": 194,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -42,6 +42,7 @@
     "CA-22 (Bakersfield & Tulare)",
     "CA-41 (Downey & Whittier)",
     "CA-48 (Escondido & Temecula)",
+    "CO-03 (Pueblo & Grand Junction)",
     "CO-08 (Thornton & Greeley)",
     "FL-09 (Orlando & Kissimmee)",
     "IA-01 (Davenport & Iowa City)",
@@ -73,17 +74,17 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-03T01:58:04+00:00",
-   "was": "239-196",
-   "new_flips": [],
-   "lost_flips": [
-    "AL-02 (Montgomery & Dothan)"
-   ]
+   "changed_at": "2026-11-03T10:14:27+00:00",
+   "was": "240-195",
+   "new_flips": [
+    "CO-03 (Pueblo & Grand Junction)"
+   ],
+   "lost_flips": []
   }
  },
  "summaries": {
   "senate": "Polymarket odds for Democratic control of the Senate rose by a sizable amount, with Democrats still the favoured party. The projected seat count has also moved to 54-46, up from 53-47, which would mean Democrats gain control, and [[Iowa]] is now a newly predicted flip. In that race the Democrat Josh Turek gained moderate ground, while in [[South Carolina]] the Republican Darline Graham Nordone saw a moderate drop in their chances.",
   "governor": "In [[Florida]], the Republican Byron Donalds saw a sizable rise in Polymarket odds. In [[Kansas]], the Republican Ty Masterson lost sizable ground, and the market shows a predicted flip there. The Democrat Aaron Ford also slipped by a sizable amount in [[Nevada]], another predicted flip.",
-  "house": "Polymarket's projected House count now stands at 240-195, up from 239-196, which would mean Democrats gain control. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp rise in their chances against the Democrat Paul Barringer. In [[NY-17 (Spring Valley & Ossining)]], the Democrat Cait Conley slipped sharply against the Republican Mike Lawler, and the market lists it as a predicted flip."
+  "house": "The projected House count recently shifted to 241-194, up from 240-195, which would mean Democrats gain control. The change comes as [[CO-03 (Pueblo & Grand Junction)]] became a newly predicted flip, with the Democrat Dwayne Romero making a sharp gain in the market's view. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott also strengthened sharply."
  }
 }
