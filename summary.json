@@ -1,40 +1,40 @@
 {
- "generated": "2026-11-02T22:01:12+00:00",
+ "generated": "2026-11-03T01:58:22+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "4a8fe541ca58b77b",
-  "governor": "79771ad983530e13",
+  "senate": "a8bc440691898b1f",
+  "governor": "c448e0fbdb3a2a6a",
   "house": "1ac77fec2b1eec59"
  },
  "projection": {
   "senate": {
-   "score": "53-47",
-   "d": 53,
-   "r": 47,
+   "score": "54-46",
+   "d": 54,
+   "r": 46,
    "i": 0,
    "flips": [
     "Alaska",
+    "Iowa",
     "Kansas",
     "Maine",
     "North Carolina",
     "Ohio",
     "Texas"
    ],
-   "changed_at": "2026-10-30T13:46:37+00:00",
-   "was": "52-48",
+   "changed_at": "2026-11-03T01:58:04+00:00",
+   "was": "53-47",
    "new_flips": [
-    "Kansas"
+    "Iowa"
    ],
    "lost_flips": []
   },
   "house": {
-   "score": "239-196",
-   "d": 239,
-   "r": 196,
+   "score": "240-195",
+   "d": 240,
+   "r": 195,
    "i": 0,
    "flips": [
-    "AL-02 (Montgomery & Dothan)",
     "AZ-01 (Phoenix & Scottsdale)",
     "AZ-06 (Tucson & Casa Grande)",
     "CA-01 (Santa Rosa & Chico)",
@@ -73,15 +73,17 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-02T08:29:07+00:00",
-   "was": "240-195",
+   "changed_at": "2026-11-03T01:58:04+00:00",
+   "was": "239-196",
    "new_flips": [],
-   "lost_flips": []
+   "lost_flips": [
+    "AL-02 (Montgomery & Dothan)"
+   ]
   }
  },
  "summaries": {
-  "senate": "Polymarket odds show a sizable rise in the Democrats' chances of winning control of the Senate. In [[Kansas]], the Democrat Adam Hamilton gained sharply and the market now sees a predicted flip. In [[Iowa]], the Republican Ashley Hinson saw a sharp drop in their chances, and in [[Michigan]], the Democrat Abdul El-Sayed gained ground.",
-  "governor": "In [[Kansas]], a predicted flip, the Republican Ty Masterson saw a sizable drop in chances. Republican incumbents slipped by a sizable amount in [[Texas]] and [[Vermont]] as well, with Greg Abbott and Phil Scott each seeing their odds fall. Kelly Ayotte in New Hampshire also lost ground, according to the Polymarket odds.",
+  "senate": "Democrats are favoured to win control of the Senate, and their chances rose by a sizable amount in the Polymarket odds. The projected seat count is now 54-46, up from 53-47, which means Democrats gain control, and [[Iowa]] is a newly predicted flip as the Democrat Josh Turek gained notable ground. In [[South Carolina]], the Republican Darline Graham Nordone saw a sizable drop in their chances.",
+  "governor": "The biggest shift came in [[Kansas]], where the Republican Ty Masterson saw a sharp drop in chances, and the market sees the seat as a predicted flip. In [[Vermont]], the Republican Phil Scott also slid sharply. In [[Nevada]], the Democrat Aaron Ford lost a sizable amount of ground, and Polymarket odds mark that seat as a predicted flip as well.",
   "house": "The biggest move came in [[NY-17 (Spring Valley & Ossining)]], where the Democrat Cait Conley saw a sharp drop in their chances, and the market lists the seat as a predicted flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott gained ground sharply. Over in [[AR-02 (Little Rock & Conway)]], the Republican French Hill slipped by a sizable amount in Polymarket odds."
  }
 }
