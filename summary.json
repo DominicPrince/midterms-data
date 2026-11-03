@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-03T19:52:08+00:00",
+ "generated": "2026-11-03T23:52:02+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "a4c54a69b27ea4aa",
-  "governor": "a8145272c0343456",
+  "senate": "eafaf3a086be6682",
+  "governor": "e2e14988a414e466",
   "house": "04dbcf62a6f04736"
  },
  "projection": {
@@ -30,9 +30,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "240-195",
-   "d": 240,
-   "r": 195,
+   "score": "243-192",
+   "d": 243,
+   "r": 192,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -42,22 +42,25 @@
     "CA-22 (Bakersfield & Tulare)",
     "CA-41 (Downey & Whittier)",
     "CA-48 (Escondido & Temecula)",
+    "CO-03 (Pueblo & Grand Junction)",
     "CO-08 (Thornton & Greeley)",
     "FL-09 (Orlando & Kissimmee)",
     "IA-01 (Davenport & Iowa City)",
     "IA-02 (Cedar Rapids & Waterloo)",
     "IA-03 (Des Moines & Ankeny)",
+    "IN-05 (Fishers & Carmel)",
     "KY-06 (Lexington-Fayette & Georgetown)",
     "LA-06 (Baton Rouge & Central)",
     "ME-02 (Lewiston & Bangor)",
     "MI-04 (Kalamazoo & Battle Creek)",
     "MI-07 (Lansing & East Lansing)",
     "MI-10 (Warren & Sterling Heights)",
+    "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
     "NC-11 (Asheville & Hendersonville)",
+    "NC-13 (Fuquay-Varina & Sanford)",
     "NE-02 (Omaha & Gretna)",
     "NJ-07 (Linden & Westfield)",
-    "NY-17 (Spring Valley & Ossining)",
     "OH-07 (Parma & Strongsville)",
     "PA-01 (Bristol & Morrisville)",
     "PA-07 (Allentown & Bethlehem)",
@@ -73,17 +76,22 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-03T19:51:43+00:00",
-   "was": "241-194",
-   "new_flips": [],
+   "changed_at": "2026-11-03T23:51:37+00:00",
+   "was": "240-195",
+   "new_flips": [
+    "CO-03 (Pueblo & Grand Junction)",
+    "IN-05 (Fishers & Carmel)",
+    "MO-02 (O'Fallon & Chesterfield)",
+    "NC-13 (Fuquay-Varina & Sanford)"
+   ],
    "lost_flips": [
-    "VA-05 (Lynchburg & Charlottesville)"
+    "NY-17 (Spring Valley & Ossining)"
    ]
   }
  },
  "summaries": {
-  "senate": "Polymarket odds show a slight drop in the Democrats' chances of winning control of the Senate, though they remain the favoured party. In [[Maine]], a predicted flip, the Democrat Troy Jackson saw a sizable drop in their chances. In [[Kansas]], also a predicted flip, the Democrat Adam Hamilton gained ground by a moderate amount.",
-  "governor": "The biggest move came in [[Kansas]], where the Republican Ty Masterson saw a sizable drop in chances in what the market treats as a predicted flip. In [[Nevada]], the Democrat Aaron Ford gained ground by a sizable amount, also a predicted flip. The Polymarket odds also show the Democrat Keisha Lance Bottoms making a moderate gain in [[Georgia]].",
+  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, and the party is the market's favoured side. The Democratic candidates in four races also gained ground sharply: Josh Turek in [[Iowa]], Adam Hamilton in [[Kansas]], James Talarico in [[Texas]] and Sherrod Brown in Ohio. The market lists each of those four contests as a predicted flip.",
+  "governor": "The biggest move came in [[Nevada]], where the Democrat Aaron Ford's chances rose sharply in the Polymarket odds, and the market treats the race as a predicted flip. In [[Kansas]], the Republican Ty Masterson saw a sharp drop in the odds, and that race is also a predicted flip. The Democrat Keisha Lance Bottoms also improved in the market's view in Georgia, a sizable move.",
   "house": "The Democrats' chances of winning House control slipped slightly in the Polymarket odds today. In [[NJ-02 (Vineland & Atlantic City)]], the Republican Jeff Van Drew saw a sharp drop in chances against the Democrat Zack Mullock, while in [[VA-01 (Williamsburg & Poquoson)]] the Democrat Shannon Taylor gained sharply on the Republican Rob Wittman, a predicted flip. The projected seat count also shifted to 240-195, down from 241-194, which still means Democrats gain control."
  }
 }
