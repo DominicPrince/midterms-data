@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-03T14:15:56+00:00",
+ "generated": "2026-11-03T18:14:00+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "2fb8d7714047e64b",
-  "governor": "f73de503fe0ec3af",
-  "house": "1bdc8d96c0713704"
+  "senate": "73f3e7a656efb518",
+  "governor": "b8782283245a3db0",
+  "house": "ef60f5874bc1d7a3"
  },
  "projection": {
   "senate": {
@@ -30,9 +30,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "240-195",
-   "d": 240,
-   "r": 195,
+   "score": "241-194",
+   "d": 241,
+   "r": 194,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -70,20 +70,21 @@
     "UT-01 (Salt Lake City & West Valley City)",
     "VA-01 (Williamsburg & Poquoson)",
     "VA-02 (Virginia Beach & Chesapeake)",
+    "VA-05 (Lynchburg & Charlottesville)",
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-03T14:15:32+00:00",
-   "was": "241-194",
-   "new_flips": [],
-   "lost_flips": [
-    "CO-03 (Pueblo & Grand Junction)"
-   ]
+   "changed_at": "2026-11-03T18:13:31+00:00",
+   "was": "240-195",
+   "new_flips": [
+    "VA-05 (Lynchburg & Charlottesville)"
+   ],
+   "lost_flips": []
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democratic control of the Senate rose by a sizable amount, and the Democrats remain the favoured party. In [[Iowa]], the Democrat Josh Turek gained ground by a sizable margin, and the market lists it as a predicted flip. [[Kansas]] is also shown as a predicted flip, with the Democrat Adam Hamilton making a moderate gain.",
-  "governor": "In [[Kansas]], the Republican Ty Masterson saw a sizable drop in Polymarket odds, and the market now shows a predicted flip. Over in [[Ohio]], the Democrat Amy Acton gained moderate ground, which is also marked as a predicted flip. In [[Florida]], the Republican Byron Donalds strengthened sizably in the market's view.",
-  "house": "The projected House count recently shifted to 241-194, up from 240-195, which would mean Democrats gain control. The change comes as [[CO-03 (Pueblo & Grand Junction)]] became a newly predicted flip, with the Democrat Dwayne Romero making a sharp gain in the market's view. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott also strengthened sharply."
+  "senate": "Polymarket odds give the Democrats the edge for Senate control, and that edge widened slightly today. In [[Maine]], the Democrat Troy Jackson lost a sizable amount of ground against Susan Collins, though the market still sees it as a predicted flip. In [[Iowa]], the Democrat Josh Turek gained moderately, also a predicted flip, while in [[Texas]] the Democrat James Talarico saw a moderate drop in chances against Ken Paxton, another predicted flip.",
+  "governor": "In [[Kansas]], Ty Masterson, the Republican, saw a sizable drop in chances, and the market lists it as a predicted flip. In [[Nevada]], the Democrat Aaron Ford gained ground by a sizable margin, also a predicted flip. The Republican Phil Scott slipped by a sizable amount in [[Vermont]].",
+  "house": "Polymarket odds show the Democrats still favoured to take the House, though their chances slipped slightly today. In [[VA-01 (Williamsburg & Poquoson)]], the Democrat Shannon Taylor's chances rose sharply, and the market lists it as a predicted flip, while in [[NJ-02 (Vineland & Atlantic City)]] the Republican Jeff Van Drew's chances fell sharply. The projected seat count moved to 241-194, up from 240-195, with Democrats gaining control, and [[VA-05 (Lynchburg & Charlottesville)]] is a newly predicted flip."
  }
 }
