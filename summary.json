@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-03T01:58:22+00:00",
+ "generated": "2026-11-03T03:05:38+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "a8bc440691898b1f",
+  "senate": "e25e2b62d29e7cd7",
   "governor": "c448e0fbdb3a2a6a",
-  "house": "1ac77fec2b1eec59"
+  "house": "667d98a0fb14c751"
  },
  "projection": {
   "senate": {
@@ -82,8 +82,8 @@
   }
  },
  "summaries": {
-  "senate": "Democrats are favoured to win control of the Senate, and their chances rose by a sizable amount in the Polymarket odds. The projected seat count is now 54-46, up from 53-47, which means Democrats gain control, and [[Iowa]] is a newly predicted flip as the Democrat Josh Turek gained notable ground. In [[South Carolina]], the Republican Darline Graham Nordone saw a sizable drop in their chances.",
+  "senate": "Polymarket odds show a sizable rise in the Democrats' chances of winning control of the Senate. The projected seat count recently changed to 54-46, up from 53-47, which means Democrats gain control. [[Iowa]] is a newly predicted flip, with the Democrat Josh Turek gaining a moderate amount of ground, while in [[South Carolina]] the Republican Darline Graham Nordone saw a sizable drop in their chances.",
   "governor": "The biggest shift came in [[Kansas]], where the Republican Ty Masterson saw a sharp drop in chances, and the market sees the seat as a predicted flip. In [[Vermont]], the Republican Phil Scott also slid sharply. In [[Nevada]], the Democrat Aaron Ford lost a sizable amount of ground, and Polymarket odds mark that seat as a predicted flip as well.",
-  "house": "The biggest move came in [[NY-17 (Spring Valley & Ossining)]], where the Democrat Cait Conley saw a sharp drop in their chances, and the market lists the seat as a predicted flip. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott gained ground sharply. Over in [[AR-02 (Little Rock & Conway)]], the Republican French Hill slipped by a sizable amount in Polymarket odds."
+  "house": "Polymarket's projected House count now stands at 240-195, up from 239-196, which would mean Democrats gain control. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott saw a sharp rise in their chances against the Democrat Paul Barringer. In [[NY-17 (Spring Valley & Ossining)]], the Democrat Cait Conley slipped sharply against the Republican Mike Lawler, and the market lists it as a predicted flip."
  }
 }
