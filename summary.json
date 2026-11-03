@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-03T18:37:17+00:00",
+ "generated": "2026-11-03T19:52:08+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "a4c54a69b27ea4aa",
-  "governor": "b8782283245a3db0",
-  "house": "4896c88dbdb59f97"
+  "governor": "a8145272c0343456",
+  "house": "04dbcf62a6f04736"
  },
  "projection": {
   "senate": {
@@ -30,9 +30,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "241-194",
-   "d": 241,
-   "r": 194,
+   "score": "240-195",
+   "d": 240,
+   "r": 195,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -70,21 +70,20 @@
     "UT-01 (Salt Lake City & West Valley City)",
     "VA-01 (Williamsburg & Poquoson)",
     "VA-02 (Virginia Beach & Chesapeake)",
-    "VA-05 (Lynchburg & Charlottesville)",
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-03T18:13:31+00:00",
-   "was": "240-195",
-   "new_flips": [
+   "changed_at": "2026-11-03T19:51:43+00:00",
+   "was": "241-194",
+   "new_flips": [],
+   "lost_flips": [
     "VA-05 (Lynchburg & Charlottesville)"
-   ],
-   "lost_flips": []
+   ]
   }
  },
  "summaries": {
   "senate": "Polymarket odds show a slight drop in the Democrats' chances of winning control of the Senate, though they remain the favoured party. In [[Maine]], a predicted flip, the Democrat Troy Jackson saw a sizable drop in their chances. In [[Kansas]], also a predicted flip, the Democrat Adam Hamilton gained ground by a moderate amount.",
-  "governor": "In [[Kansas]], Ty Masterson, the Republican, saw a sizable drop in chances, and the market lists it as a predicted flip. In [[Nevada]], the Democrat Aaron Ford gained ground by a sizable margin, also a predicted flip. The Republican Phil Scott slipped by a sizable amount in [[Vermont]].",
-  "house": "Polymarket odds still favour the Democrats to win the House, though their chances slipped slightly today. The market's projected seat count is now 241-194, up from 240-195, which means Democrats gain control, and [[VA-05 (Lynchburg & Charlottesville)]] is a newly predicted flip. Among individual races, the Republican Jeff Van Drew's chances in [[NJ-02 (Vineland & Atlantic City)]] fell sharply, while the Democrat Shannon Taylor gained sharply in [[VA-01 (Williamsburg & Poquoson)]], a predicted flip."
+  "governor": "The biggest move came in [[Kansas]], where the Republican Ty Masterson saw a sizable drop in chances in what the market treats as a predicted flip. In [[Nevada]], the Democrat Aaron Ford gained ground by a sizable amount, also a predicted flip. The Polymarket odds also show the Democrat Keisha Lance Bottoms making a moderate gain in [[Georgia]].",
+  "house": "The Democrats' chances of winning House control slipped slightly in the Polymarket odds today. In [[NJ-02 (Vineland & Atlantic City)]], the Republican Jeff Van Drew saw a sharp drop in chances against the Democrat Zack Mullock, while in [[VA-01 (Williamsburg & Poquoson)]] the Democrat Shannon Taylor gained sharply on the Republican Rob Wittman, a predicted flip. The projected seat count also shifted to 240-195, down from 241-194, which still means Democrats gain control."
  }
 }
