@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-03T12:21:57+00:00",
+ "generated": "2026-11-03T14:15:56+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "2fb8d7714047e64b",
-  "governor": "25c10ee6b9cec70d",
+  "governor": "f73de503fe0ec3af",
   "house": "1bdc8d96c0713704"
  },
  "projection": {
@@ -30,9 +30,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "241-194",
-   "d": 241,
-   "r": 194,
+   "score": "240-195",
+   "d": 240,
+   "r": 195,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -42,7 +42,6 @@
     "CA-22 (Bakersfield & Tulare)",
     "CA-41 (Downey & Whittier)",
     "CA-48 (Escondido & Temecula)",
-    "CO-03 (Pueblo & Grand Junction)",
     "CO-08 (Thornton & Greeley)",
     "FL-09 (Orlando & Kissimmee)",
     "IA-01 (Davenport & Iowa City)",
@@ -74,17 +73,17 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-03T10:14:27+00:00",
-   "was": "240-195",
-   "new_flips": [
+   "changed_at": "2026-11-03T14:15:32+00:00",
+   "was": "241-194",
+   "new_flips": [],
+   "lost_flips": [
     "CO-03 (Pueblo & Grand Junction)"
-   ],
-   "lost_flips": []
+   ]
   }
  },
  "summaries": {
   "senate": "Polymarket odds for Democratic control of the Senate rose by a sizable amount, and the Democrats remain the favoured party. In [[Iowa]], the Democrat Josh Turek gained ground by a sizable margin, and the market lists it as a predicted flip. [[Kansas]] is also shown as a predicted flip, with the Democrat Adam Hamilton making a moderate gain.",
-  "governor": "The Republican in [[Kansas]], Ty Masterson, saw a sizable drop in chances, and the market still shows it as a predicted flip. In [[Ohio]], the Democrat Amy Acton gained moderate ground, also in a race the market expects to change party. The Republican in [[Oklahoma]], Mike Mazzei, also lost a sizable amount of ground.",
+  "governor": "In [[Kansas]], the Republican Ty Masterson saw a sizable drop in Polymarket odds, and the market now shows a predicted flip. Over in [[Ohio]], the Democrat Amy Acton gained moderate ground, which is also marked as a predicted flip. In [[Florida]], the Republican Byron Donalds strengthened sizably in the market's view.",
   "house": "The projected House count recently shifted to 241-194, up from 240-195, which would mean Democrats gain control. The change comes as [[CO-03 (Pueblo & Grand Junction)]] became a newly predicted flip, with the Democrat Dwayne Romero making a sharp gain in the market's view. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott also strengthened sharply."
  }
 }
