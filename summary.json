@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-03T10:14:50+00:00",
+ "generated": "2026-11-03T12:21:57+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "8a55b6bf8bc885f5",
-  "governor": "83e7309fd33a5be1",
+  "senate": "2fb8d7714047e64b",
+  "governor": "25c10ee6b9cec70d",
   "house": "1bdc8d96c0713704"
  },
  "projection": {
@@ -83,8 +83,8 @@
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democratic control of the Senate rose by a sizable amount, with Democrats still the favoured party. The projected seat count has also moved to 54-46, up from 53-47, which would mean Democrats gain control, and [[Iowa]] is now a newly predicted flip. In that race the Democrat Josh Turek gained moderate ground, while in [[South Carolina]] the Republican Darline Graham Nordone saw a moderate drop in their chances.",
-  "governor": "In [[Florida]], the Republican Byron Donalds saw a sizable rise in Polymarket odds. In [[Kansas]], the Republican Ty Masterson lost sizable ground, and the market shows a predicted flip there. The Democrat Aaron Ford also slipped by a sizable amount in [[Nevada]], another predicted flip.",
+  "senate": "Polymarket odds for Democratic control of the Senate rose by a sizable amount, and the Democrats remain the favoured party. In [[Iowa]], the Democrat Josh Turek gained ground by a sizable margin, and the market lists it as a predicted flip. [[Kansas]] is also shown as a predicted flip, with the Democrat Adam Hamilton making a moderate gain.",
+  "governor": "The Republican in [[Kansas]], Ty Masterson, saw a sizable drop in chances, and the market still shows it as a predicted flip. In [[Ohio]], the Democrat Amy Acton gained moderate ground, also in a race the market expects to change party. The Republican in [[Oklahoma]], Mike Mazzei, also lost a sizable amount of ground.",
   "house": "The projected House count recently shifted to 241-194, up from 240-195, which would mean Democrats gain control. The change comes as [[CO-03 (Pueblo & Grand Junction)]] became a newly predicted flip, with the Democrat Dwayne Romero making a sharp gain in the market's view. In [[NC-13 (Fuquay-Varina & Sanford)]], the Republican Brad Knott also strengthened sharply."
  }
 }
