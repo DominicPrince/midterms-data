@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-03T18:14:00+00:00",
+ "generated": "2026-11-03T18:37:17+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "73f3e7a656efb518",
+  "senate": "a4c54a69b27ea4aa",
   "governor": "b8782283245a3db0",
-  "house": "ef60f5874bc1d7a3"
+  "house": "4896c88dbdb59f97"
  },
  "projection": {
   "senate": {
@@ -83,8 +83,8 @@
   }
  },
  "summaries": {
-  "senate": "Polymarket odds give the Democrats the edge for Senate control, and that edge widened slightly today. In [[Maine]], the Democrat Troy Jackson lost a sizable amount of ground against Susan Collins, though the market still sees it as a predicted flip. In [[Iowa]], the Democrat Josh Turek gained moderately, also a predicted flip, while in [[Texas]] the Democrat James Talarico saw a moderate drop in chances against Ken Paxton, another predicted flip.",
+  "senate": "Polymarket odds show a slight drop in the Democrats' chances of winning control of the Senate, though they remain the favoured party. In [[Maine]], a predicted flip, the Democrat Troy Jackson saw a sizable drop in their chances. In [[Kansas]], also a predicted flip, the Democrat Adam Hamilton gained ground by a moderate amount.",
   "governor": "In [[Kansas]], Ty Masterson, the Republican, saw a sizable drop in chances, and the market lists it as a predicted flip. In [[Nevada]], the Democrat Aaron Ford gained ground by a sizable margin, also a predicted flip. The Republican Phil Scott slipped by a sizable amount in [[Vermont]].",
-  "house": "Polymarket odds show the Democrats still favoured to take the House, though their chances slipped slightly today. In [[VA-01 (Williamsburg & Poquoson)]], the Democrat Shannon Taylor's chances rose sharply, and the market lists it as a predicted flip, while in [[NJ-02 (Vineland & Atlantic City)]] the Republican Jeff Van Drew's chances fell sharply. The projected seat count moved to 241-194, up from 240-195, with Democrats gaining control, and [[VA-05 (Lynchburg & Charlottesville)]] is a newly predicted flip."
+  "house": "Polymarket odds still favour the Democrats to win the House, though their chances slipped slightly today. The market's projected seat count is now 241-194, up from 240-195, which means Democrats gain control, and [[VA-05 (Lynchburg & Charlottesville)]] is a newly predicted flip. Among individual races, the Republican Jeff Van Drew's chances in [[NJ-02 (Vineland & Atlantic City)]] fell sharply, while the Democrat Shannon Taylor gained sharply in [[VA-01 (Williamsburg & Poquoson)]], a predicted flip."
  }
 }
