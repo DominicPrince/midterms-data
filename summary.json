@@ -1,40 +1,42 @@
 {
- "generated": "2026-11-04T01:49:38+00:00",
+ "generated": "2026-11-04T02:19:37+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "db65bffb48723485",
-  "governor": "fffed63d46d18460",
-  "house": "51bf80a511bac1c9"
+  "senate": "16c4ca75d5c4267b",
+  "governor": "4a99da418555503f",
+  "house": "6ec69e5f2ac698ea"
  },
  "projection": {
   "senate": {
-   "score": "55-44-1",
+   "score": "55-45",
    "d": 55,
-   "r": 44,
-   "i": 1,
+   "r": 45,
+   "i": 0,
    "flips": [
     "Alaska",
     "Iowa",
     "Kansas",
     "Maine",
-    "Nebraska",
     "North Carolina",
     "Ohio",
     "South Carolina",
     "Texas"
    ],
-   "changed_at": "2026-11-04T01:49:22+00:00",
-   "was": "56-44",
+   "changed_at": "2026-11-04T02:19:23+00:00",
+   "was": "55-44-1",
    "new_flips": [],
-   "lost_flips": []
+   "lost_flips": [
+    "Nebraska"
+   ]
   },
   "house": {
-   "score": "263-172",
+   "score": "263-171-1",
    "d": 263,
-   "r": 172,
-   "i": 0,
+   "r": 171,
+   "i": 1,
    "flips": [
+    "AK-AL (Alaska)",
     "AZ-01 (Phoenix & Scottsdale)",
     "AZ-02 (Flagstaff & Maricopa)",
     "AZ-06 (Tucson & Casa Grande)",
@@ -89,26 +91,17 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T01:49:22+00:00",
-   "was": "254-181",
+   "changed_at": "2026-11-04T02:19:23+00:00",
+   "was": "263-172",
    "new_flips": [
-    "CO-04 (Castle Rock & Loveland)",
-    "MN-01 (Rochester & Mankato)",
-    "MO-02 (O'Fallon & Chesterfield)",
-    "NC-06 (High Point & Kannapolis)",
-    "NC-09 (Fayetteville & Burlington)",
-    "NC-14 (Gastonia & Huntersville)",
-    "OH-10 (Dayton & Kettering)",
-    "OH-15 (Dublin & Grove City)"
+    "AK-AL (Alaska)"
    ],
-   "lost_flips": [
-    "TX-09 (Pasadena & Baytown)"
-   ]
+   "lost_flips": []
   }
  },
  "summaries": {
-  "senate": "Polymarket odds show the Democrats' chances of winning control of the Senate rising sharply, and they remain the favoured party. The Democrat Annie Andrews in [[South Carolina]] and the independent Dan Osborn in [[Nebraska]] each gained sharply, and the market now treats both seats as predicted flips. The projected seat count moved to 55-44-1, down from 56-44, which still means the Democrats gain control.",
-  "governor": "Polymarket odds for the Texas governor's race moved sharply in favor of the Democrat Gina Hinojosa, and the market shows it as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained a lot of ground against the Republican Ty Masterson. Elsewhere, the market gave the Republican Byron Donalds a sharp boost in [[Florida]].",
-  "house": "Polymarket odds for Democrats to win the House rose by a sizable amount, with the party favoured. The projected seat count also changed to 263-172, up from 254-181, which would mean Democrats gain control, and the market now predicts new flips in [[CO-04 (Castle Rock & Loveland)]], [[MN-01 (Rochester & Mankato)]] and [[OH-10 (Dayton & Kettering)]], among others. In IN-05 (Fishers & Carmel), the Democrat J. D."
+  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, with the party now the market's favoured side. The Democrat Annie Andrews in [[South Carolina]] and the Democrat Adam Hamilton in [[Kansas]] both gained ground sharply, and each race is now a predicted flip. The projected seat count recently changed to 55-45, up from 55-44-1, which means Democrats gain control.",
+  "governor": "Polymarket odds moved sharply in four governor's races over the last day. In [[Texas]], the Democrat Gina Hinojosa gained a lot of ground and is now a predicted flip, and the market also sees the Democrat Keisha Lance Bottoms in [[Georgia]] making a sharp gain, another predicted flip. The Democrat in [[Kansas]], Cindy Holscher, and the Republican in Florida, Byron Donalds, each saw their chances climb sharply as well.",
+  "house": "Polymarket odds for Democrats to control the House rose by a sizable amount, and the market continues to favour them. The projected seat count recently changed to 263-171-1, up from 263-172, which would mean Democrats gain control, and [[AK-AL (Alaska)]] is a newly predicted flip. The Democrats J. D."
  }
 }
