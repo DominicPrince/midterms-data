@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-04T09:20:02+00:00",
+ "generated": "2026-11-04T10:50:29+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "8b78b09408bfd7f2",
-  "governor": "b5afb70c06bb6131",
+  "governor": "cc7afbf7fcd7fd75",
   "house": "07b5657b27c2380c"
  },
  "projection": {
@@ -31,6 +31,7 @@
    "i": 1,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
+    "AZ-02 (Flagstaff & Maricopa)",
     "AZ-06 (Tucson & Casa Grande)",
     "CA-22 (Bakersfield & Tulare)",
     "CA-48 (Escondido & Temecula)",
@@ -52,7 +53,6 @@
     "NJ-02 (Vineland & Atlantic City)",
     "NV-02 (Reno & Sparks)",
     "NY-17 (Spring Valley & Ossining)",
-    "OH-07 (Parma & Strongsville)",
     "OH-10 (Dayton & Kettering)",
     "SC-01 (Mount Pleasant & Summerville)",
     "TN-04 (Murfreesboro & La Vergne)",
@@ -60,20 +60,19 @@
     "TX-32 (Garland & Richardson)",
     "VA-01 (Williamsburg & Poquoson)"
    ],
-   "changed_at": "2026-11-04T09:19:51+00:00",
-   "was": "240-193-1",
-   "new_flips": [],
+   "changed_at": "2026-11-04T10:50:04+00:00",
+   "was": "235-197-1",
+   "new_flips": [
+    "AZ-02 (Flagstaff & Maricopa)"
+   ],
    "lost_flips": [
-    "AZ-02 (Flagstaff & Maricopa)",
-    "IN-05 (Fishers & Carmel)",
-    "WI-01 (Kenosha & Racine)",
-    "WI-03 (Eau Claire & La Crosse)"
+    "OH-07 (Parma & Strongsville)"
    ]
   }
  },
  "summaries": {
   "senate": "Polymarket odds for Senate control moved sharply toward the Democrats, who are the favoured party. In [[Mississippi]], the Democrat Scott Colom gained a lot of ground against the Republican Cindy Hyde-Smith, and the market treats the seat as a predicted flip. In [[Nebraska]], the Republican Pete Ricketts also strengthened considerably in a race that includes Dan Osborn, an independent, and a Democrat. The projected Senate count recently changed to 49-51, down from 50-50, and Republicans keep control.",
-  "governor": "Four governor's races saw sharp moves in the Polymarket odds over the last day. In [[Nevada]], the Democrat Aaron Ford gained a lot of ground, and the market treats the seat as a predicted flip. The Democrats Cindy Holscher in [[Kansas]] and Tina Kotek in Oregon also strengthened sharply.",
+  "governor": "Four governor's races saw sharp moves in Polymarket odds, three of them in the Democrats' favor. In [[Nevada]], the Democrat Aaron Ford gained a lot of ground in a race the market lists as a predicted flip, and in [[Kansas]], the Democrat Cindy Holscher also climbed sharply. The market likewise moved sharply toward the Democrat Tina Kotek in Oregon, while in [[Nebraska]] the Republican Jim Pillen strengthened considerably.",
   "house": "Polymarket odds for Democrats to win control of the House rose by a sizable amount, with the party still the market's favourite. The projected seat count recently changed to 235-197-1, down from 240-193-1, and it still means Democrats gain control. In North Carolina, the Democrats Cyril Jefferson in [[NC-06 (High Point & Kannapolis)]] and Lakesha Womack in [[NC-14 (Gastonia & Huntersville)]] each gained sharply, and the market lists both seats as predicted flips."
  }
 }
