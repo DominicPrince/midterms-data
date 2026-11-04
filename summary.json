@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T05:19:49+00:00",
+ "generated": "2026-11-04T05:49:54+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "d57c2fa2701670c5",
-  "governor": "30cba4f27ec75e76",
-  "house": "9c025340921f7f65"
+  "governor": "f6946b09075d0671",
+  "house": "f6fce7dd1833039f"
  },
  "projection": {
   "senate": {
@@ -30,12 +30,13 @@
    ]
   },
   "house": {
-   "score": "257-177",
-   "d": 257,
-   "r": 177,
+   "score": "258-176",
+   "d": 258,
+   "r": 176,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
+    "AZ-02 (Flagstaff & Maricopa)",
     "AZ-06 (Tucson & Casa Grande)",
     "CA-01 (Santa Rosa & Chico)",
     "CA-03 (Folsom & Rancho Cordova)",
@@ -86,19 +87,17 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T05:19:33+00:00",
+   "changed_at": "2026-11-04T05:49:37+00:00",
    "was": "257-177",
    "new_flips": [
-    "NC-05 (Greensboro & Boone)"
+    "AZ-02 (Flagstaff & Maricopa)"
    ],
-   "lost_flips": [
-    "NC-11 (Asheville & Hendersonville)"
-   ]
+   "lost_flips": []
   }
  },
  "summaries": {
   "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds, and the party remains the favourite. In [[South Carolina]], the Democrat Annie Andrews gained a lot of ground and the market shows a predicted flip, while the Democrat Josh Turek's odds in [[Iowa]] also climbed steeply, again with a predicted flip. The projected Senate count now stands at 54-46, down from 55-45, which still means Democrats gain control.",
-  "governor": "The most striking move is in [[Texas]], where the Democrat Gina Hinojosa saw a sharp rise in Polymarket odds and the market now shows a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained ground sharply, against the Republican Ty Masterson. Elsewhere, the Republican Byron Donalds in [[Florida]] strengthened sharply as well.",
-  "house": "Polymarket odds show the Democrats' chances of winning the House rising by a sizable amount, with the party favoured to take control. In [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained sharply, and the market now lists the seat as a predicted flip. [[IN-05 (Fishers & Carmel)]] saw a similar sharp rise for the Democrat J. D."
+  "governor": "Polymarket odds for [[Texas]] moved sharply toward the Democrat Gina Hinojosa, and the market lists the race as a predicted flip. In [[Nevada]], the Democrat Aaron Ford also gained ground in a sharp move, and that race is likewise listed as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher saw a sharp rise in chances, while in Vermont the Republican Phil Scott also climbed sharply.",
+  "house": "The Democrats' chances of winning control of the House rose by a sizable amount in Polymarket odds. The projected seat count moved to 258-176 from 257-177, which would mean Democrats gain control, with [[AZ-02 (Flagstaff & Maricopa)]] newly predicted as a flip. The market also shows a sharp gain for the Democrat in [[NC-14 (Gastonia & Huntersville)]], Lakesha Womack, and for the Democrat in [[IN-05 (Fishers & Carmel)]], J. D."
  }
 }
