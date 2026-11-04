@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T04:49:43+00:00",
+ "generated": "2026-11-04T05:19:49+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "d57c2fa2701670c5",
   "governor": "30cba4f27ec75e76",
-  "house": "7866b6231a29cf6d"
+  "house": "9c025340921f7f65"
  },
  "projection": {
   "senate": {
@@ -58,9 +58,9 @@
     "MI-10 (Warren & Sterling Heights)",
     "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
+    "NC-05 (Greensboro & Boone)",
     "NC-06 (High Point & Kannapolis)",
     "NC-09 (Fayetteville & Burlington)",
-    "NC-11 (Asheville & Hendersonville)",
     "NC-13 (Fuquay-Varina & Sanford)",
     "NC-14 (Gastonia & Huntersville)",
     "NE-02 (Omaha & Gretna)",
@@ -86,20 +86,19 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T04:49:32+00:00",
-   "was": "258-176",
+   "changed_at": "2026-11-04T05:19:33+00:00",
+   "was": "257-177",
    "new_flips": [
-    "MI-04 (Kalamazoo & Battle Creek)"
+    "NC-05 (Greensboro & Boone)"
    ],
    "lost_flips": [
-    "AZ-05 (Chandler & Gilbert)",
-    "NC-05 (Greensboro & Boone)"
+    "NC-11 (Asheville & Hendersonville)"
    ]
   }
  },
  "summaries": {
   "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds, and the party remains the favourite. In [[South Carolina]], the Democrat Annie Andrews gained a lot of ground and the market shows a predicted flip, while the Democrat Josh Turek's odds in [[Iowa]] also climbed steeply, again with a predicted flip. The projected Senate count now stands at 54-46, down from 55-45, which still means Democrats gain control.",
   "governor": "The most striking move is in [[Texas]], where the Democrat Gina Hinojosa saw a sharp rise in Polymarket odds and the market now shows a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained ground sharply, against the Republican Ty Masterson. Elsewhere, the Republican Byron Donalds in [[Florida]] strengthened sharply as well.",
-  "house": "Polymarket odds for Democrats winning control of the House rose by a sizable amount, and the market continues to favour them. In [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained a lot of ground against the Republican Tim Moore, and the market now sees it as a predicted flip. The Democrat J. D."
+  "house": "Polymarket odds show the Democrats' chances of winning the House rising by a sizable amount, with the party favoured to take control. In [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained sharply, and the market now lists the seat as a predicted flip. [[IN-05 (Fishers & Carmel)]] saw a similar sharp rise for the Democrat J. D."
  }
 }
