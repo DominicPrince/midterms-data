@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T10:58:02+00:00",
+ "generated": "2026-11-04T11:04:07+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "fac425c289906a8c",
+  "senate": "d5dcc3773f78b396",
   "governor": "173c4cc740ff8eec",
-  "house": "abab991461a32692"
+  "house": "a66479a165b4f1c7"
  },
  "calls_seen": {
   "senate": [
@@ -317,6 +317,7 @@
    "NM-01 (Albuquerque & Rio Rancho)",
    "NM-02 (Las Cruces & Carlsbad)",
    "NM-03 (Santa Fe & Roswell)",
+   "NV-01 (Henderson & Boulder City)",
    "NV-04 (Las Vegas & North Las Vegas)",
    "NY-03 (Glen Cove & Mineola)",
    "NY-04 (Hempstead & Freeport)",
@@ -465,8 +466,8 @@
   ]
  },
  "summaries": {
-  "senate": "Democrats have 54 seats to the Republicans' 44, past the 50 needed, and the market sees Democratic control of the Senate as near-certain. Seven seats have been called for a different party from the one holding them, among them [[Texas]], where the Democrat James Talarico won, and [[Ohio]], where the Democrat Sherrod Brown won. The one upset is in [[South Carolina]], where the Democrat Annie Andrews won after being an underdog before the polls closed. Still uncalled, the Democrat Mary Peltola in Alaska is a strong favourite, and the Democrat Scott Colom in Mississippi is the favourite.",
-  "governor": "Democrats hold 29 governorships to the Republicans' 20, with 35 of the 36 races up this year called. Six seats have been called for a different party from the one holding them, five of them listed here, all won by Democrats from Republican hands: Ohio, Alaska, Nevada, Georgia and Texas. The Democrats Amy Acton in [[Ohio]], Jonathan Kreiss-Tomkins in Alaska, Aaron Ford in Nevada and Keisha Lance Bottoms in Georgia were all favourites before the polls closed. The one unexpected result is [[Texas]], where the Democrat Gina Hinojosa won after being a slight underdog before the polls closed.",
-  "house": "Democrats have 239 seats to the Republicans' 142, already past the 218 needed, and the market puts them as near-certain favourites to control the House. Thirty-three seats have been called for a different party from the one holding them, among them [[NC-09 (Fayetteville & Burlington)]], where the Democrat Richard Ojeda won, and [[MO-02 (O'Fallon & Chesterfield)]], where the Democrat Fred Wellman won. Eight calls have gone to the underdog; 373 of the 381 called went to the pre-poll favourite, and the surprises include Ojeda, Wellman and the Democrat J. D."
+  "senate": "Democrats have 54 seats to the Republicans' 44, past the 50 needed, and the market puts them near-certain to control the chamber. Seven seats have been called for a different party from the one holding them, among them [[Texas]], where the Democrat James Talarico won, and [[Ohio]], where the Democrat Sherrod Brown won. One result went against the market's pre-poll view: the Democrat Annie Andrews won [[South Carolina]] as an underdog. In Alaska, the Democrat Mary Peltola is still the favourite.",
+  "governor": "Democrats hold 29 governorships to the Republicans' 20, with 35 of the 36 races up called. Six seats have been called for a different party from the one holding them, among them [[Ohio]], where the Democrat Amy Acton won, and [[Georgia]], where the Democrat Keisha Lance Bottoms won. The one upset is [[Texas]], where the Democrat Gina Hinojosa was a slight underdog before polls closed, and the other 34 calls went to the pre-poll favourite. Still uncalled is Kansas, where the Democrat Cindy Holscher is a strong favourite.",
+  "house": "Democrats have 240 seats to the Republicans' 142, past the 218 needed for a majority, and the market sees them as near-certain to control the House. Of the 382 races called, 33 went to a different party from the one holding the seat, including [[NC-09 (Fayetteville & Burlington)]], [[MO-02 (O'Fallon & Chesterfield)]] and [[IN-05 (Fishers & Carmel)]]. Eight winners were underdogs before the polls closed, among them the Democrats Richard Ojeda, Fred Wellman and J. D. Ford, each a seat change from the Republicans. The other 374 calls went to the pre-poll favourite."
  }
 }
