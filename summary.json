@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T00:56:25+00:00",
+ "generated": "2026-11-04T00:57:02+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
@@ -23,7 +23,7 @@
     "South Carolina",
     "Texas"
    ],
-   "changed_at": "2026-11-04T00:56:09+00:00",
+   "changed_at": "2026-11-04T00:56:44+00:00",
    "was": "54-46",
    "new_flips": [
     "South Carolina"
@@ -83,7 +83,7 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T00:56:09+00:00",
+   "changed_at": "2026-11-04T00:56:44+00:00",
    "was": "251-184",
    "new_flips": [
     "CO-05 (Colorado Springs & Fountain)",
@@ -98,8 +98,8 @@
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, and the party remains the favourite. The projected seat count is now 55-45, up from 54-46, which would mean Democrats gain control, and [[South Carolina]] is a newly predicted flip after a sharp rise for the Democrat Annie Andrews. In [[Iowa]], the Democrat Josh Turek also gained ground sharply, and the market sees that seat as a predicted flip.",
-  "governor": "The biggest moves came in three races Polymarket odds show as predicted flips: [[Ohio]], [[Nevada]] and Georgia, where the Democrats Amy Acton, Aaron Ford and Keisha Lance Bottoms each saw their chances rise sharply. In [[Florida]], the Republican Byron Donalds also gained a good deal of ground in the market.",
-  "house": "Polymarket odds show the Democrats' chances of winning House control rising by a sizable margin, with the party favoured to take the chamber. The market's projected seat count recently changed to 253-182, up from 251-184, a result in which Democrats gain control, and [[CO-05 (Colorado Springs & Fountain)]], [[IN-05 (Fishers & Carmel)]] and [[OH-10 (Dayton & Kettering)]] are newly predicted flips. The Democrats J. D."
+  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, with the party favoured to win the chamber. The projected seat count is now 55-45, up from 54-46, and Democrats gain control. [[South Carolina]] is a newly predicted flip after a sharp rise for the Democrat Annie Andrews, and the Democrat Josh Turek also gained sharply in [[Iowa]], another predicted flip.",
+  "governor": "The biggest moves came in three races Polymarket odds now show as predicted flips: [[Georgia]], [[Nevada]] and [[Ohio]]. The Democrats Keisha Lance Bottoms, Aaron Ford and Amy Acton each saw a sharp rise in their chances. In Florida, the Republican Byron Donalds also gained sharply, though that race is not shown as a predicted flip.",
+  "house": "Polymarket odds show a sizable gain in the Democrats' chances of winning control of the House. The projected seat count moved to 253-182, up from 251-184, which would mean Democrats gain control, with [[CO-05 (Colorado Springs & Fountain)]] and [[IN-05 (Fishers & Carmel)]] among the newly predicted flips. In [[NC-03 (Greenville & Jacksonville)]], a predicted flip, the Democrat Raymond Smith Jr. gained ground sharply over the Republican Greg Murphy."
  }
 }
