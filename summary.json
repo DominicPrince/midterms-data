@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T07:55:14+00:00",
+ "generated": "2026-11-04T08:19:53+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "44f6fff927eca66d",
   "governor": "0459c315a2bdbed3",
-  "house": "6c962f06a22b53ec"
+  "house": "00e9fd790b624dc3"
  },
  "projection": {
   "senate": {
@@ -28,25 +28,23 @@
    ]
   },
   "house": {
-   "score": "254-180",
-   "d": 254,
-   "r": 180,
+   "score": "248-186",
+   "d": 248,
+   "r": 186,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
     "AZ-02 (Flagstaff & Maricopa)",
     "AZ-05 (Chandler & Gilbert)",
     "AZ-06 (Tucson & Casa Grande)",
-    "CA-01 (Santa Rosa & Chico)",
+    "AZ-08 (Peoria)",
     "CA-03 (Folsom & Rancho Cordova)",
     "CA-22 (Bakersfield & Tulare)",
     "CA-41 (Downey & Whittier)",
     "CA-48 (Escondido & Temecula)",
     "CO-04 (Castle Rock & Loveland)",
     "CO-05 (Colorado Springs & Fountain)",
-    "IA-01 (Davenport & Iowa City)",
     "IA-02 (Cedar Rapids & Waterloo)",
-    "IA-03 (Des Moines & Ankeny)",
     "IN-05 (Fishers & Carmel)",
     "LA-06 (Baton Rouge & Central)",
     "ME-02 (Lewiston & Bangor)",
@@ -54,7 +52,6 @@
     "MI-07 (Lansing & East Lansing)",
     "MI-10 (Warren & Sterling Heights)",
     "MN-01 (Rochester & Mankato)",
-    "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
     "NC-03 (Greenville & Jacksonville)",
     "NC-05 (Greensboro & Boone)",
@@ -62,7 +59,6 @@
     "NC-09 (Fayetteville & Burlington)",
     "NC-13 (Fuquay-Varina & Sanford)",
     "NC-14 (Gastonia & Huntersville)",
-    "NE-02 (Omaha & Gretna)",
     "NJ-02 (Vineland & Atlantic City)",
     "NV-02 (Reno & Sparks)",
     "NY-17 (Spring Valley & Ossining)",
@@ -76,23 +72,27 @@
     "TX-32 (Garland & Richardson)",
     "UT-01 (Salt Lake City & West Valley City)",
     "VA-01 (Williamsburg & Poquoson)",
-    "VA-02 (Virginia Beach & Chesapeake)",
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T07:54:51+00:00",
+   "changed_at": "2026-11-04T08:19:47+00:00",
    "was": "254-180",
    "new_flips": [
-    "MN-01 (Rochester & Mankato)"
+    "AZ-08 (Peoria)"
    ],
    "lost_flips": [
-    "CO-08 (Thornton & Greeley)"
+    "CA-01 (Santa Rosa & Chico)",
+    "IA-01 (Davenport & Iowa City)",
+    "IA-03 (Des Moines & Ankeny)",
+    "MO-02 (O'Fallon & Chesterfield)",
+    "NE-02 (Omaha & Gretna)",
+    "VA-02 (Virginia Beach & Chesapeake)"
    ]
   }
  },
  "summaries": {
   "senate": "Polymarket odds show a sharp rise in the Democrats' chances of winning control of the Senate. The projected Senate count now stands at 50-50, down from 53-47, which would leave the chamber split evenly. In [[Mississippi]], the Democrat Scott Colom gained ground sharply and is a predicted flip, while in [[Nebraska]] the Republican Pete Ricketts also strengthened sharply.",
   "governor": "Polymarket odds shifted sharply in four governor's races, led by [[Nevada]], where the Democrat Aaron Ford gained ground in a contest the market sees as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also saw a steep rise in their chances. The Republican Phil Scott strengthened markedly in [[Vermont]], and the Democrat Tina Kotek climbed sharply in Oregon.",
-  "house": "Polymarket odds for Democratic control of the House rose by a sizable amount, with Democrats still the favoured party. In [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained sharply and the race is a predicted flip, and the Democrat J. D. Ford also advanced sharply in [[IN-05 (Fishers & Carmel)]], another predicted flip."
+  "house": "Polymarket odds show the Democrats' chances of winning the House rose by a sizable amount. Two North Carolina races saw sharp gains for the Democratic leaders, Cyril Jefferson in [[NC-06 (High Point & Kannapolis)]] and Lakesha Womack in [[NC-14 (Gastonia & Huntersville)]], and the market sees both as predicted flips. The projected seat count also changed to 248-186, down from 254-180, with Democrats still gaining control, and [[AZ-08 (Peoria)]] is a newly predicted flip."
  }
 }
