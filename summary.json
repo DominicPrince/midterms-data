@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T03:29:15+00:00",
+ "generated": "2026-11-04T03:49:47+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "bfdd0ef45a9f2b7c",
   "governor": "4a99da418555503f",
-  "house": "5cb4a4f9144ec6fe"
+  "house": "4fb62baaa9aa0884"
  },
  "projection": {
   "senate": {
@@ -31,9 +31,9 @@
    ]
   },
   "house": {
-   "score": "268-166",
-   "d": 268,
-   "r": 166,
+   "score": "264-170",
+   "d": 264,
+   "r": 170,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -63,7 +63,6 @@
     "MN-01 (Rochester & Mankato)",
     "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
-    "NC-03 (Greenville & Jacksonville)",
     "NC-06 (High Point & Kannapolis)",
     "NC-09 (Fayetteville & Burlington)",
     "NC-11 (Asheville & Hendersonville)",
@@ -73,8 +72,6 @@
     "NJ-02 (Vineland & Atlantic City)",
     "NJ-07 (Linden & Westfield)",
     "NV-02 (Reno & Sparks)",
-    "NY-01 (Lake Grove & Port Jefferson)",
-    "NY-02 (Lindenhurst & Massapequa Park)",
     "NY-17 (Spring Valley & Ossining)",
     "OH-07 (Parma & Strongsville)",
     "OH-10 (Dayton & Kettering)",
@@ -85,8 +82,9 @@
     "PA-10 (Harrisburg & York)",
     "SC-01 (Mount Pleasant & Summerville)",
     "SC-02 (Columbia & Aiken)",
+    "TN-09 (Memphis & Smyrna)",
     "TX-15 (Edinburg & Pharr)",
-    "TX-27 (Corpus Christi & Victoria)",
+    "TX-25 (Cleburne & Stephenville)",
     "UT-01 (Salt Lake City & West Valley City)",
     "VA-01 (Williamsburg & Poquoson)",
     "VA-02 (Virginia Beach & Chesapeake)",
@@ -94,19 +92,23 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T03:29:09+00:00",
+   "changed_at": "2026-11-04T03:49:27+00:00",
    "was": "268-166",
    "new_flips": [
-    "SC-02 (Columbia & Aiken)"
+    "TN-09 (Memphis & Smyrna)",
+    "TX-25 (Cleburne & Stephenville)"
    ],
    "lost_flips": [
-    "NY-21 (Rome & Plattsburgh)"
+    "NC-03 (Greenville & Jacksonville)",
+    "NY-01 (Lake Grove & Port Jefferson)",
+    "NY-02 (Lindenhurst & Massapequa Park)",
+    "TX-27 (Corpus Christi & Victoria)"
    ]
   }
  },
  "summaries": {
   "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds, and the party is now the favoured side. Among the races driving that shift, the Democrat in [[South Carolina]], Annie Andrews, gained ground sharply, as did the Democrat in [[Iowa]], Josh Turek, and both are predicted flips. The market's projected seat count is now 55-45, up from 55-44-1, which would mean Democrats gain control.",
   "governor": "In [[Texas]], the Democrat Gina Hinojosa saw a sharp rise in the market's odds, and Polymarket treats the seat as a predicted flip. The Democrat in [[Georgia]], Keisha Lance Bottoms, also gained sharply, and that seat is likewise a predicted flip. In [[Kansas]], the Democrat Cindy Holscher strengthened sharply as well, while in Florida the Republican Byron Donalds also moved up by a large margin.",
-  "house": "Polymarket odds for the Democrats to win control of the House rose by a sizable amount. The Democrat J. D. Ford strengthened sharply in [[IN-05 (Fishers & Carmel)]], and the Democrat Lakesha Womack made a similarly sharp gain in [[NC-14 (Gastonia & Huntersville)]], with the market treating both as predicted flips."
+  "house": "Polymarket odds show a sizable gain in the Democrats' chances of winning control of the House. Two races saw sharp moves: in [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained ground against the Republican Tim Moore, and in [[IN-05 (Fishers & Carmel)]], the Democrat J. D. Ford made a similar jump against the Republican Victoria Spartz, with both seats now a predicted flip."
  }
 }
