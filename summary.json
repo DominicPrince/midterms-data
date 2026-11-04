@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T08:19:53+00:00",
+ "generated": "2026-11-04T08:50:17+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "44f6fff927eca66d",
-  "governor": "0459c315a2bdbed3",
-  "house": "00e9fd790b624dc3"
+  "senate": "e8d55dc88cb6862a",
+  "governor": "b5afb70c06bb6131",
+  "house": "14b254fd0db7ae36"
  },
  "projection": {
   "senate": {
@@ -28,23 +28,18 @@
    ]
   },
   "house": {
-   "score": "248-186",
-   "d": 248,
-   "r": 186,
-   "i": 0,
+   "score": "240-193-1",
+   "d": 240,
+   "r": 193,
+   "i": 1,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
     "AZ-02 (Flagstaff & Maricopa)",
-    "AZ-05 (Chandler & Gilbert)",
     "AZ-06 (Tucson & Casa Grande)",
-    "AZ-08 (Peoria)",
-    "CA-03 (Folsom & Rancho Cordova)",
     "CA-22 (Bakersfield & Tulare)",
-    "CA-41 (Downey & Whittier)",
     "CA-48 (Escondido & Temecula)",
     "CO-04 (Castle Rock & Loveland)",
     "CO-05 (Colorado Springs & Fountain)",
-    "IA-02 (Cedar Rapids & Waterloo)",
     "IN-05 (Fishers & Carmel)",
     "LA-06 (Baton Rouge & Central)",
     "ME-02 (Lewiston & Bangor)",
@@ -64,35 +59,32 @@
     "NY-17 (Spring Valley & Ossining)",
     "OH-07 (Parma & Strongsville)",
     "OH-10 (Dayton & Kettering)",
-    "PA-01 (Bristol & Morrisville)",
     "SC-01 (Mount Pleasant & Summerville)",
     "TN-04 (Murfreesboro & La Vergne)",
     "TN-09 (Memphis & Smyrna)",
-    "TX-15 (Edinburg & Pharr)",
     "TX-32 (Garland & Richardson)",
-    "UT-01 (Salt Lake City & West Valley City)",
     "VA-01 (Williamsburg & Poquoson)",
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T08:19:47+00:00",
-   "was": "254-180",
-   "new_flips": [
-    "AZ-08 (Peoria)"
-   ],
+   "changed_at": "2026-11-04T08:49:46+00:00",
+   "was": "248-186",
+   "new_flips": [],
    "lost_flips": [
-    "CA-01 (Santa Rosa & Chico)",
-    "IA-01 (Davenport & Iowa City)",
-    "IA-03 (Des Moines & Ankeny)",
-    "MO-02 (O'Fallon & Chesterfield)",
-    "NE-02 (Omaha & Gretna)",
-    "VA-02 (Virginia Beach & Chesapeake)"
+    "AZ-05 (Chandler & Gilbert)",
+    "AZ-08 (Peoria)",
+    "CA-03 (Folsom & Rancho Cordova)",
+    "CA-41 (Downey & Whittier)",
+    "IA-02 (Cedar Rapids & Waterloo)",
+    "PA-01 (Bristol & Morrisville)",
+    "TX-15 (Edinburg & Pharr)",
+    "UT-01 (Salt Lake City & West Valley City)"
    ]
   }
  },
  "summaries": {
-  "senate": "Polymarket odds show a sharp rise in the Democrats' chances of winning control of the Senate. The projected Senate count now stands at 50-50, down from 53-47, which would leave the chamber split evenly. In [[Mississippi]], the Democrat Scott Colom gained ground sharply and is a predicted flip, while in [[Nebraska]] the Republican Pete Ricketts also strengthened sharply.",
-  "governor": "Polymarket odds shifted sharply in four governor's races, led by [[Nevada]], where the Democrat Aaron Ford gained ground in a contest the market sees as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also saw a steep rise in their chances. The Republican Phil Scott strengthened markedly in [[Vermont]], and the Democrat Tina Kotek climbed sharply in Oregon.",
-  "house": "Polymarket odds show the Democrats' chances of winning the House rose by a sizable amount. Two North Carolina races saw sharp gains for the Democratic leaders, Cyril Jefferson in [[NC-06 (High Point & Kannapolis)]] and Lakesha Womack in [[NC-14 (Gastonia & Huntersville)]], and the market sees both as predicted flips. The projected seat count also changed to 248-186, down from 254-180, with Democrats still gaining control, and [[AZ-08 (Peoria)]] is a newly predicted flip."
+  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, with the party still favoured. The projected seat count is now 50-50, which would leave the chamber split evenly, and was 53-47 before. In [[Mississippi]], the Democrat Scott Colom made a sharp gain and the market now sees a predicted flip, while in [[Nebraska]] the Republican Pete Ricketts also gained sharply.",
+  "governor": "Four governor's races saw sharp moves in the Polymarket odds over the last day. In [[Nevada]], the Democrat Aaron Ford gained a lot of ground, and the market treats the seat as a predicted flip. The Democrats Cindy Holscher in [[Kansas]] and Tina Kotek in Oregon also strengthened sharply.",
+  "house": "Polymarket odds show the Democrats' chances of winning House control rose by a sizable amount, and they remain the favoured party. The projected seat count has also changed, now 240-193-1, down from 248-186, and the market still points to Democrats gaining control. Two North Carolina races saw sharp gains for the Democrats, with Cyril Jefferson in [[NC-06 (High Point & Kannapolis)]] and Lakesha Womack in [[NC-14 (Gastonia & Huntersville)]] each improving their standing, and both are listed as predicted flips."
  }
 }
