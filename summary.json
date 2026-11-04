@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T20:07:01+00:00",
+ "generated": "2026-11-04T21:07:11+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "c21e16f8169d0c73",
   "governor": "0c13857021fef063",
-  "house": "5d343a0c5739b5d7"
+  "house": "6cddcf67c9146ebd"
  },
  "calls_seen": {
   "senate": [
@@ -90,7 +90,6 @@
    "AL-06 (Hoover & Prattville)",
    "AL-07 (Birmingham & Homewood)",
    "AR-01 (Jonesboro & Paragould)",
-   "AR-02 (Little Rock & Conway)",
    "AR-03 (Fayetteville & Fort Smith)",
    "AR-04 (Pine Bluff & Hot Springs)",
    "AZ-01 (Phoenix & Scottsdale)",
@@ -264,7 +263,6 @@
    "MD-07 (Baltimore)",
    "MD-08 (Rockville & Takoma Park)",
    "ME-01 (Portland & South Portland)",
-   "ME-02 (Lewiston & Bangor)",
    "MI-01 (Marquette & Traverse City)",
    "MI-02 (Mount Pleasant & Ionia)",
    "MI-03 (Grand Rapids & Wyoming)",
@@ -303,7 +301,6 @@
    "NC-02 (Raleigh & Cary)",
    "NC-04 (Durham & Apex)",
    "NC-06 (High Point & Kannapolis)",
-   "NC-09 (Fayetteville & Burlington)",
    "NC-11 (Asheville & Hendersonville)",
    "NC-12 (Charlotte)",
    "NC-13 (Fuquay-Varina & Sanford)",
@@ -429,6 +426,7 @@
    "TX-19 (Lubbock & Abilene)",
    "TX-20 (San Antonio & Leon Valley)",
    "TX-21 (New Braunfels & San Marcos)",
+   "TX-22 (Sugar Land & Fulshear)",
    "TX-23 (Del Rio & Eagle Pass)",
    "TX-24 (North Richland Hills & Euless)",
    "TX-25 (Cleburne & Stephenville)",
@@ -480,6 +478,6 @@
  "summaries": {
   "senate": "Democrats have 54 seats to the Republicans' 44, past the 50 needed for a majority, and the market sees them as near-certain to control the Senate. Seven seats have been called for a different party from the one holding them, including [[Texas]], where the Democrat James Talarico won, and [[Ohio]], where the Democrat Sherrod Brown won. The one upset is [[South Carolina]], where the Democrat Annie Andrews won after being an underdog before the polls closed; the other 32 calls went to the favourite. Still uncalled are Alaska and Mississippi, where the Democrats Mary Peltola and Scott Colom are each a strong favourite.",
   "governor": "Democrats hold 30 governorships to the Republicans' 20, with 36 of the 36 races up this year called. Six seats have been called for a different party from the one holding them, all won by Democrats, including [[Texas]], where Gina Hinojosa won, [[Ohio]], where Amy Acton won, and [[Nevada]], where Aaron Ford won. Two calls were upsets: Hinojosa in Texas and Cindy Holscher in Kansas were both slight underdogs before their state's polls closed. The other 34 calls went to the favourite the market had before the polls closed.",
-  "house": "Democrats have 249 seats to the Republicans' 144, past the 218 needed, and the market makes them near-certain to win control of the House. Of the 393 races called so far, 39 went to a different party from the one holding the seat, including [[NC-13 (Fuquay-Varina & Sanford)]], where the Democrat Paul Barringer won, and [[AZ-01 (Phoenix & Scottsdale)]], where the Democrat Amish Shah won. Nine of the calls were upsets, among them Paul Barringer and the Democrat Richard Ojeda in North Carolina's 9th district, who were both slight underdogs before the polls closed. Still uncalled is [[NV-02 (Reno & Sparks)]], where the Democrat Teresa Benitez-Thompson is a strong favourite."
+  "house": "Democrats have 248 seats to the Republicans' 143, already past the 218 needed, and the market sees them as near-certain to control the House. Of the 391 races called so far, 37 have gone to a different party from the one holding the seat, including [[NC-13 (Fuquay-Varina & Sanford)]], where the Democrat Paul Barringer won, and [[AZ-01 (Phoenix & Scottsdale)]], where the Democrat Amish Shah won. The unexpected results came where winners had been underdogs before their state's polls closed: Paul Barringer was a slight underdog, and in [[NC-06 (High Point & Kannapolis)]] the Democrat Cyril Jefferson was a long shot. Eight upsets in all, and 383 of the 391 calls went to the pre-poll favourite."
  }
 }
