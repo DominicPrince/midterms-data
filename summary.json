@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-03T23:58:29+00:00",
+ "generated": "2026-11-04T00:10:05+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "eafaf3a086be6682",
-  "governor": "f32f03f3f862a825",
-  "house": "59c7fd8e47b3fe56"
+  "senate": "a9f18337d8fded71",
+  "governor": "76f9411362760d5d",
+  "house": "b32c8044c7e92e0a"
  },
  "projection": {
   "senate": {
@@ -30,9 +30,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "248-187",
-   "d": 248,
-   "r": 187,
+   "score": "250-185",
+   "d": 250,
+   "r": 185,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -52,7 +52,6 @@
     "IN-05 (Fishers & Carmel)",
     "KY-06 (Lexington-Fayette & Georgetown)",
     "LA-06 (Baton Rouge & Central)",
-    "ME-02 (Lewiston & Bangor)",
     "MI-04 (Kalamazoo & Battle Creek)",
     "MI-07 (Lansing & East Lansing)",
     "MI-10 (Warren & Sterling Heights)",
@@ -70,6 +69,7 @@
     "PA-07 (Allentown & Bethlehem)",
     "PA-08 (Scranton & Wilkes-Barre)",
     "PA-10 (Harrisburg & York)",
+    "SC-01 (Mount Pleasant & Summerville)",
     "TN-09 (Memphis & Smyrna)",
     "TX-09 (Pasadena & Baytown)",
     "TX-15 (Edinburg & Pharr)",
@@ -81,19 +81,19 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-03T23:58:17+00:00",
-   "was": "245-190",
+   "changed_at": "2026-11-04T00:09:45+00:00",
+   "was": "248-187",
    "new_flips": [
-    "AZ-02 (Flagstaff & Maricopa)",
-    "NY-17 (Spring Valley & Ossining)",
-    "VA-05 (Lynchburg & Charlottesville)"
+    "SC-01 (Mount Pleasant & Summerville)"
    ],
-   "lost_flips": []
+   "lost_flips": [
+    "ME-02 (Lewiston & Bangor)"
+   ]
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, and the party is the market's favoured side. The Democratic candidates in four races also gained ground sharply: Josh Turek in [[Iowa]], Adam Hamilton in [[Kansas]], James Talarico in [[Texas]] and Sherrod Brown in Ohio. The market lists each of those four contests as a predicted flip.",
-  "governor": "Polymarket odds shifted sharply in several governor's races, with three of them now showing a predicted flip. In [[Nevada]], the Democrat Aaron Ford gained a great deal of ground, and in [[Georgia]], the Democrat Keisha Lance Bottoms also rose sharply. In [[Kansas]], the Republican Ty Masterson saw a steep drop in chances.",
-  "house": "Polymarket odds show the Democrats' chances of winning control of the House rose by a moderate amount today. The projected seat count recently changed to 248-187, up from 245-190, which means Democrats gain control. Three races are newly predicted flips: [[AZ-02 (Flagstaff & Maricopa)]], [[NY-17 (Spring Valley & Ossining)]] and [[VA-05 (Lynchburg & Charlottesville)]]."
+  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, and the party is now the market's favoured side. The Democrats Josh Turek in [[Iowa]], Adam Hamilton in [[Kansas]] and Sherrod Brown in [[Ohio]] each gained a lot of ground, and the market lists all three as predicted flips. In Nebraska, the Republican Pete Ricketts saw a sharp drop in their chances.",
+  "governor": "The biggest moves came in [[Nevada]] and [[Kansas]], both marked as predicted flips: the Democrat Aaron Ford gained ground sharply in Nevada, while the Republican Ty Masterson saw a steep drop in Kansas. In [[Florida]], the Republican Byron Donalds also strengthened considerably. Vermont's Republican, Phil Scott, slipped noticeably in the Polymarket odds.",
+  "house": "Polymarket odds moved moderately further toward the Democrats winning control of the House, which the market already favours them to do. In [[IN-05 (Fishers & Carmel)]], the Democrat J. D. Ford gained sharply on Republican Victoria Spartz, and in [[NC-13 (Fuquay-Varina & Sanford)]] the Democrat Paul Barringer also made a sharp gain against Republican Brad Knott; both are predicted flips."
  }
 }
