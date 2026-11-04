@@ -1,43 +1,41 @@
 {
- "generated": "2026-11-04T04:19:46+00:00",
+ "generated": "2026-11-04T04:49:43+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "bfdd0ef45a9f2b7c",
+  "senate": "d57c2fa2701670c5",
   "governor": "30cba4f27ec75e76",
-  "house": "3a6fb10400912ba0"
+  "house": "7866b6231a29cf6d"
  },
  "projection": {
   "senate": {
-   "score": "55-45",
-   "d": 55,
-   "r": 45,
+   "score": "54-46",
+   "d": 54,
+   "r": 46,
    "i": 0,
    "flips": [
     "Alaska",
     "Iowa",
     "Kansas",
     "Maine",
-    "North Carolina",
     "Ohio",
     "South Carolina",
     "Texas"
    ],
-   "changed_at": "2026-11-04T02:19:23+00:00",
-   "was": "55-44-1",
+   "changed_at": "2026-11-04T04:49:32+00:00",
+   "was": "55-45",
    "new_flips": [],
    "lost_flips": [
-    "Nebraska"
+    "North Carolina"
    ]
   },
   "house": {
-   "score": "258-176",
-   "d": 258,
-   "r": 176,
+   "score": "257-177",
+   "d": 257,
+   "r": 177,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
-    "AZ-05 (Chandler & Gilbert)",
     "AZ-06 (Tucson & Casa Grande)",
     "CA-01 (Santa Rosa & Chico)",
     "CA-03 (Folsom & Rancho Cordova)",
@@ -55,11 +53,11 @@
     "KY-06 (Lexington-Fayette & Georgetown)",
     "LA-06 (Baton Rouge & Central)",
     "ME-02 (Lewiston & Bangor)",
+    "MI-04 (Kalamazoo & Battle Creek)",
     "MI-07 (Lansing & East Lansing)",
     "MI-10 (Warren & Sterling Heights)",
     "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
-    "NC-05 (Greensboro & Boone)",
     "NC-06 (High Point & Kannapolis)",
     "NC-09 (Fayetteville & Burlington)",
     "NC-11 (Asheville & Hendersonville)",
@@ -88,27 +86,20 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T04:19:29+00:00",
-   "was": "264-170",
+   "changed_at": "2026-11-04T04:49:32+00:00",
+   "was": "258-176",
    "new_flips": [
-    "NC-05 (Greensboro & Boone)",
-    "TN-04 (Murfreesboro & La Vergne)",
-    "TX-32 (Garland & Richardson)"
+    "MI-04 (Kalamazoo & Battle Creek)"
    ],
    "lost_flips": [
-    "AZ-02 (Flagstaff & Maricopa)",
-    "AZ-08 (Peoria)",
-    "MI-04 (Kalamazoo & Battle Creek)",
-    "MN-01 (Rochester & Mankato)",
-    "SC-02 (Columbia & Aiken)",
-    "TX-25 (Cleburne & Stephenville)",
-    "WA-05 (Spokane & Spokane Valley)"
+    "AZ-05 (Chandler & Gilbert)",
+    "NC-05 (Greensboro & Boone)"
    ]
   }
  },
  "summaries": {
-  "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds, and the party is now the favoured side. Among the races driving that shift, the Democrat in [[South Carolina]], Annie Andrews, gained ground sharply, as did the Democrat in [[Iowa]], Josh Turek, and both are predicted flips. The market's projected seat count is now 55-45, up from 55-44-1, which would mean Democrats gain control.",
+  "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds, and the party remains the favourite. In [[South Carolina]], the Democrat Annie Andrews gained a lot of ground and the market shows a predicted flip, while the Democrat Josh Turek's odds in [[Iowa]] also climbed steeply, again with a predicted flip. The projected Senate count now stands at 54-46, down from 55-45, which still means Democrats gain control.",
   "governor": "The most striking move is in [[Texas]], where the Democrat Gina Hinojosa saw a sharp rise in Polymarket odds and the market now shows a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained ground sharply, against the Republican Ty Masterson. Elsewhere, the Republican Byron Donalds in [[Florida]] strengthened sharply as well.",
-  "house": "Polymarket odds show the Democrats' chances of winning House control rising by a sizable amount. In [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained sharply, and the market sees a predicted flip there. The same is true in [[IN-05 (Fishers & Carmel)]], where the Democrat J. D."
+  "house": "Polymarket odds for Democrats winning control of the House rose by a sizable amount, and the market continues to favour them. In [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained a lot of ground against the Republican Tim Moore, and the market now sees it as a predicted flip. The Democrat J. D."
  }
 }
