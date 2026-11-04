@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-04T06:38:33+00:00",
+ "generated": "2026-11-04T06:49:52+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "a981896367c16fb3",
+  "senate": "aad3ec66821eb86f",
   "governor": "e0268277b2268938",
-  "house": "cada6c78f415bfa3"
+  "house": "300c2b4439ea1947"
  },
  "projection": {
   "senate": {
-   "score": "55-45",
-   "d": 55,
-   "r": 45,
+   "score": "54-46",
+   "d": 54,
+   "r": 46,
    "i": 0,
    "flips": [
     "Alaska",
@@ -20,23 +20,21 @@
     "Maine",
     "Mississippi",
     "Ohio",
-    "South Carolina",
     "Texas"
    ],
-   "changed_at": "2026-11-04T06:19:41+00:00",
-   "was": "54-46",
-   "new_flips": [
-    "Mississippi"
-   ],
-   "lost_flips": []
+   "changed_at": "2026-11-04T06:49:41+00:00",
+   "was": "55-45",
+   "new_flips": [],
+   "lost_flips": [
+    "South Carolina"
+   ]
   },
   "house": {
-   "score": "256-177-1",
-   "d": 256,
-   "r": 177,
-   "i": 1,
+   "score": "255-179",
+   "d": 255,
+   "r": 179,
+   "i": 0,
    "flips": [
-    "AK-AL (Alaska)",
     "AZ-01 (Phoenix & Scottsdale)",
     "AZ-02 (Flagstaff & Maricopa)",
     "AZ-06 (Tucson & Casa Grande)",
@@ -60,7 +58,6 @@
     "MI-10 (Warren & Sterling Heights)",
     "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
-    "NC-03 (Greenville & Jacksonville)",
     "NC-05 (Greensboro & Boone)",
     "NC-06 (High Point & Kannapolis)",
     "NC-09 (Fayetteville & Burlington)",
@@ -87,20 +84,18 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T06:38:18+00:00",
-   "was": "257-176-1",
-   "new_flips": [
-    "NC-03 (Greenville & Jacksonville)"
-   ],
+   "changed_at": "2026-11-04T06:49:41+00:00",
+   "was": "256-177-1",
+   "new_flips": [],
    "lost_flips": [
-    "CO-03 (Pueblo & Grand Junction)",
-    "PA-07 (Allentown & Bethlehem)"
+    "AK-AL (Alaska)",
+    "NC-03 (Greenville & Jacksonville)"
    ]
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democrats to win control of the Senate rose sharply today. The projected seat count moved to 55-45, up from 54-46, which would mean Democrats gain control, and [[Mississippi]] is a newly predicted flip. The market also saw a sharp rise in the chances of the Democrat Annie Andrews in [[South Carolina]], another predicted flip, and of the Democrat Scott Colom in Mississippi.",
+  "senate": "Polymarket odds for Democrats winning control of the Senate rose sharply, with the party favoured to take the chamber. Two races drove much of the shift: in [[Mississippi]], the Democrat Scott Colom made a sharp gain and is now a predicted flip, and in [[Iowa]], the Democrat Josh Turek also rose sharply, another predicted flip. The projected seat count is now 54-46, down from 55-45, and Democrats still gain control.",
   "governor": "Polymarket odds for [[Texas]] moved sharply toward the Democrat Gina Hinojosa, and the market now shows a predicted flip there. [[Nevada]] saw a similar sharp move, with the Democrat Aaron Ford gaining ground and also marked as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained ground sharply.",
-  "house": "Polymarket odds for Democratic control of the House rose by a sizable amount, and the market continues to favour the Democrats. The market's projected seat count recently changed to 256-177-1, down from 257-176-1, which still means Democrats gain control, and [[NC-03 (Greenville & Jacksonville)]] is a newly predicted flip. The odds also moved sharply toward the Democrats in [[NC-14 (Gastonia & Huntersville)]], where Lakesha Womack faces Tim Moore, and [[IN-05 (Fishers & Carmel)]], where J. D."
+  "house": "Polymarket odds for a Democratic House majority rose by a sizable amount, leaving Democrats the favoured party for control. The Democratic candidates also gained sharply in [[NC-14 (Gastonia & Huntersville)]], where Lakesha Womack is up against the Republican Tim Moore, and in [[IN-05 (Fishers & Carmel)]], where J. D. Ford faces the Republican Victoria Spartz; the market shows both as predicted flips."
  }
 }
