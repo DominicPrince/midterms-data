@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-04T01:19:28+00:00",
+ "generated": "2026-11-04T01:49:38+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "9c47126994b6c4aa",
-  "governor": "372b359f80f422da",
-  "house": "f0d9b533a1e751e8"
+  "senate": "db65bffb48723485",
+  "governor": "fffed63d46d18460",
+  "house": "51bf80a511bac1c9"
  },
  "projection": {
   "senate": {
-   "score": "56-44",
-   "d": 56,
+   "score": "55-44-1",
+   "d": 55,
    "r": 44,
-   "i": 0,
+   "i": 1,
    "flips": [
     "Alaska",
     "Iowa",
@@ -24,17 +24,15 @@
     "South Carolina",
     "Texas"
    ],
-   "changed_at": "2026-11-04T01:19:13+00:00",
-   "was": "55-45",
-   "new_flips": [
-    "Nebraska"
-   ],
+   "changed_at": "2026-11-04T01:49:22+00:00",
+   "was": "56-44",
+   "new_flips": [],
    "lost_flips": []
   },
   "house": {
-   "score": "254-181",
-   "d": 254,
-   "r": 181,
+   "score": "263-172",
+   "d": 263,
+   "r": 172,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -46,6 +44,7 @@
     "CA-41 (Downey & Whittier)",
     "CA-48 (Escondido & Temecula)",
     "CO-03 (Pueblo & Grand Junction)",
+    "CO-04 (Castle Rock & Loveland)",
     "CO-05 (Colorado Springs & Fountain)",
     "CO-08 (Thornton & Greeley)",
     "IA-01 (Davenport & Iowa City)",
@@ -58,10 +57,15 @@
     "MI-04 (Kalamazoo & Battle Creek)",
     "MI-07 (Lansing & East Lansing)",
     "MI-10 (Warren & Sterling Heights)",
+    "MN-01 (Rochester & Mankato)",
+    "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
     "NC-03 (Greenville & Jacksonville)",
+    "NC-06 (High Point & Kannapolis)",
+    "NC-09 (Fayetteville & Burlington)",
     "NC-11 (Asheville & Hendersonville)",
     "NC-13 (Fuquay-Varina & Sanford)",
+    "NC-14 (Gastonia & Huntersville)",
     "NE-02 (Omaha & Gretna)",
     "NJ-02 (Vineland & Atlantic City)",
     "NJ-07 (Linden & Westfield)",
@@ -69,13 +73,14 @@
     "NY-17 (Spring Valley & Ossining)",
     "NY-21 (Rome & Plattsburgh)",
     "OH-07 (Parma & Strongsville)",
+    "OH-10 (Dayton & Kettering)",
+    "OH-15 (Dublin & Grove City)",
     "PA-01 (Bristol & Morrisville)",
     "PA-07 (Allentown & Bethlehem)",
     "PA-08 (Scranton & Wilkes-Barre)",
     "PA-10 (Harrisburg & York)",
     "SC-01 (Mount Pleasant & Summerville)",
     "TN-09 (Memphis & Smyrna)",
-    "TX-09 (Pasadena & Baytown)",
     "TX-15 (Edinburg & Pharr)",
     "TX-32 (Garland & Richardson)",
     "UT-01 (Salt Lake City & West Valley City)",
@@ -84,23 +89,26 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T01:19:13+00:00",
-   "was": "253-182",
+   "changed_at": "2026-11-04T01:49:22+00:00",
+   "was": "254-181",
    "new_flips": [
-    "KS-02 (Kansas City & Topeka)",
-    "NJ-02 (Vineland & Atlantic City)",
-    "NY-21 (Rome & Plattsburgh)"
-   ],
-   "lost_flips": [
+    "CO-04 (Castle Rock & Loveland)",
+    "MN-01 (Rochester & Mankato)",
     "MO-02 (O'Fallon & Chesterfield)",
+    "NC-06 (High Point & Kannapolis)",
+    "NC-09 (Fayetteville & Burlington)",
+    "NC-14 (Gastonia & Huntersville)",
     "OH-10 (Dayton & Kettering)",
     "OH-15 (Dublin & Grove City)"
+   ],
+   "lost_flips": [
+    "TX-09 (Pasadena & Baytown)"
    ]
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, and the party remains the market's favourite. Much of the move came from [[South Carolina]], where the Democrat Annie Andrews gained a lot of ground, and [[Iowa]], where the Democrat Josh Turek also climbed sharply, with both seats now a predicted flip. The projected seat count recently changed to 56-44, up from 55-45, which means Democrats gain control, with [[Nebraska]] newly predicted as a flip.",
-  "governor": "The Democrats Gina Hinojosa in [[Texas]] and Keisha Lance Bottoms in [[Georgia]] each gained ground sharply in Polymarket odds, and the market now treats both as predicted flips. In [[Florida]], the Republican Byron Donalds also saw a sharp rise in the market's view of their chances.",
-  "house": "Polymarket odds show the Democrats' chances of winning House control rising by a sizable amount, and they remain the favoured party. The market's projected seat count also moved to 254-181, up from 253-182, which would mean Democrats gain control, with [[KS-02 (Kansas City & Topeka)]], [[NJ-02 (Vineland & Atlantic City)]] and [[NY-21 (Rome & Plattsburgh)]] newly predicted flips. Among individual races, the Democrat J. D."
+  "senate": "Polymarket odds show the Democrats' chances of winning control of the Senate rising sharply, and they remain the favoured party. The Democrat Annie Andrews in [[South Carolina]] and the independent Dan Osborn in [[Nebraska]] each gained sharply, and the market now treats both seats as predicted flips. The projected seat count moved to 55-44-1, down from 56-44, which still means the Democrats gain control.",
+  "governor": "Polymarket odds for the Texas governor's race moved sharply in favor of the Democrat Gina Hinojosa, and the market shows it as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained a lot of ground against the Republican Ty Masterson. Elsewhere, the market gave the Republican Byron Donalds a sharp boost in [[Florida]].",
+  "house": "Polymarket odds for Democrats to win the House rose by a sizable amount, with the party favoured. The projected seat count also changed to 263-172, up from 254-181, which would mean Democrats gain control, and the market now predicts new flips in [[CO-04 (Castle Rock & Loveland)]], [[MN-01 (Rochester & Mankato)]] and [[OH-10 (Dayton & Kettering)]], among others. In IN-05 (Fishers & Carmel), the Democrat J. D."
  }
 }
