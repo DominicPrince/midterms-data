@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T06:19:51+00:00",
+ "generated": "2026-11-04T06:38:33+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "a981896367c16fb3",
-  "governor": "f6946b09075d0671",
-  "house": "76b05de8d7724be8"
+  "governor": "e0268277b2268938",
+  "house": "cada6c78f415bfa3"
  },
  "projection": {
   "senate": {
@@ -31,9 +31,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "257-176-1",
-   "d": 257,
-   "r": 176,
+   "score": "256-177-1",
+   "d": 256,
+   "r": 177,
    "i": 1,
    "flips": [
     "AK-AL (Alaska)",
@@ -46,7 +46,6 @@
     "CA-22 (Bakersfield & Tulare)",
     "CA-41 (Downey & Whittier)",
     "CA-48 (Escondido & Temecula)",
-    "CO-03 (Pueblo & Grand Junction)",
     "CO-04 (Castle Rock & Loveland)",
     "CO-05 (Colorado Springs & Fountain)",
     "CO-08 (Thornton & Greeley)",
@@ -61,6 +60,7 @@
     "MI-10 (Warren & Sterling Heights)",
     "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
+    "NC-03 (Greenville & Jacksonville)",
     "NC-05 (Greensboro & Boone)",
     "NC-06 (High Point & Kannapolis)",
     "NC-09 (Fayetteville & Burlington)",
@@ -74,7 +74,6 @@
     "OH-10 (Dayton & Kettering)",
     "OH-15 (Dublin & Grove City)",
     "PA-01 (Bristol & Morrisville)",
-    "PA-07 (Allentown & Bethlehem)",
     "PA-08 (Scranton & Wilkes-Barre)",
     "PA-10 (Harrisburg & York)",
     "SC-01 (Mount Pleasant & Summerville)",
@@ -88,21 +87,20 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T06:19:41+00:00",
-   "was": "258-176",
+   "changed_at": "2026-11-04T06:38:18+00:00",
+   "was": "257-176-1",
    "new_flips": [
-    "AK-AL (Alaska)",
-    "AZ-08 (Peoria)"
+    "NC-03 (Greenville & Jacksonville)"
    ],
    "lost_flips": [
-    "KY-06 (Lexington-Fayette & Georgetown)",
-    "NJ-07 (Linden & Westfield)"
+    "CO-03 (Pueblo & Grand Junction)",
+    "PA-07 (Allentown & Bethlehem)"
    ]
   }
  },
  "summaries": {
   "senate": "Polymarket odds for Democrats to win control of the Senate rose sharply today. The projected seat count moved to 55-45, up from 54-46, which would mean Democrats gain control, and [[Mississippi]] is a newly predicted flip. The market also saw a sharp rise in the chances of the Democrat Annie Andrews in [[South Carolina]], another predicted flip, and of the Democrat Scott Colom in Mississippi.",
-  "governor": "Polymarket odds for [[Texas]] moved sharply toward the Democrat Gina Hinojosa, and the market lists the race as a predicted flip. In [[Nevada]], the Democrat Aaron Ford also gained ground in a sharp move, and that race is likewise listed as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher saw a sharp rise in chances, while in Vermont the Republican Phil Scott also climbed sharply.",
-  "house": "Democrats' chances of taking control of the House rose by a sizable amount in the Polymarket odds. The Democrats Lakesha Womack in [[NC-14 (Gastonia & Huntersville)]] and J. D. Ford in [[IN-05 (Fishers & Carmel)]] each saw a sharp rise in their chances, and the market counts both as predicted flips."
+  "governor": "Polymarket odds for [[Texas]] moved sharply toward the Democrat Gina Hinojosa, and the market now shows a predicted flip there. [[Nevada]] saw a similar sharp move, with the Democrat Aaron Ford gaining ground and also marked as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained ground sharply.",
+  "house": "Polymarket odds for Democratic control of the House rose by a sizable amount, and the market continues to favour the Democrats. The market's projected seat count recently changed to 256-177-1, down from 257-176-1, which still means Democrats gain control, and [[NC-03 (Greenville & Jacksonville)]] is a newly predicted flip. The odds also moved sharply toward the Democrats in [[NC-14 (Gastonia & Huntersville)]], where Lakesha Womack faces Tim Moore, and [[IN-05 (Fishers & Carmel)]], where J. D."
  }
 }
