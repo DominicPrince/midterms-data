@@ -1,43 +1,46 @@
 {
- "generated": "2026-11-04T05:49:54+00:00",
+ "generated": "2026-11-04T06:19:51+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "d57c2fa2701670c5",
+  "senate": "a981896367c16fb3",
   "governor": "f6946b09075d0671",
-  "house": "f6fce7dd1833039f"
+  "house": "76b05de8d7724be8"
  },
  "projection": {
   "senate": {
-   "score": "54-46",
-   "d": 54,
-   "r": 46,
+   "score": "55-45",
+   "d": 55,
+   "r": 45,
    "i": 0,
    "flips": [
     "Alaska",
     "Iowa",
     "Kansas",
     "Maine",
+    "Mississippi",
     "Ohio",
     "South Carolina",
     "Texas"
    ],
-   "changed_at": "2026-11-04T04:49:32+00:00",
-   "was": "55-45",
-   "new_flips": [],
-   "lost_flips": [
-    "North Carolina"
-   ]
+   "changed_at": "2026-11-04T06:19:41+00:00",
+   "was": "54-46",
+   "new_flips": [
+    "Mississippi"
+   ],
+   "lost_flips": []
   },
   "house": {
-   "score": "258-176",
-   "d": 258,
+   "score": "257-176-1",
+   "d": 257,
    "r": 176,
-   "i": 0,
+   "i": 1,
    "flips": [
+    "AK-AL (Alaska)",
     "AZ-01 (Phoenix & Scottsdale)",
     "AZ-02 (Flagstaff & Maricopa)",
     "AZ-06 (Tucson & Casa Grande)",
+    "AZ-08 (Peoria)",
     "CA-01 (Santa Rosa & Chico)",
     "CA-03 (Folsom & Rancho Cordova)",
     "CA-22 (Bakersfield & Tulare)",
@@ -51,7 +54,6 @@
     "IA-02 (Cedar Rapids & Waterloo)",
     "IA-03 (Des Moines & Ankeny)",
     "IN-05 (Fishers & Carmel)",
-    "KY-06 (Lexington-Fayette & Georgetown)",
     "LA-06 (Baton Rouge & Central)",
     "ME-02 (Lewiston & Bangor)",
     "MI-04 (Kalamazoo & Battle Creek)",
@@ -66,7 +68,6 @@
     "NC-14 (Gastonia & Huntersville)",
     "NE-02 (Omaha & Gretna)",
     "NJ-02 (Vineland & Atlantic City)",
-    "NJ-07 (Linden & Westfield)",
     "NV-02 (Reno & Sparks)",
     "NY-17 (Spring Valley & Ossining)",
     "OH-07 (Parma & Strongsville)",
@@ -87,17 +88,21 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T05:49:37+00:00",
-   "was": "257-177",
+   "changed_at": "2026-11-04T06:19:41+00:00",
+   "was": "258-176",
    "new_flips": [
-    "AZ-02 (Flagstaff & Maricopa)"
+    "AK-AL (Alaska)",
+    "AZ-08 (Peoria)"
    ],
-   "lost_flips": []
+   "lost_flips": [
+    "KY-06 (Lexington-Fayette & Georgetown)",
+    "NJ-07 (Linden & Westfield)"
+   ]
   }
  },
  "summaries": {
-  "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds, and the party remains the favourite. In [[South Carolina]], the Democrat Annie Andrews gained a lot of ground and the market shows a predicted flip, while the Democrat Josh Turek's odds in [[Iowa]] also climbed steeply, again with a predicted flip. The projected Senate count now stands at 54-46, down from 55-45, which still means Democrats gain control.",
+  "senate": "Polymarket odds for Democrats to win control of the Senate rose sharply today. The projected seat count moved to 55-45, up from 54-46, which would mean Democrats gain control, and [[Mississippi]] is a newly predicted flip. The market also saw a sharp rise in the chances of the Democrat Annie Andrews in [[South Carolina]], another predicted flip, and of the Democrat Scott Colom in Mississippi.",
   "governor": "Polymarket odds for [[Texas]] moved sharply toward the Democrat Gina Hinojosa, and the market lists the race as a predicted flip. In [[Nevada]], the Democrat Aaron Ford also gained ground in a sharp move, and that race is likewise listed as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher saw a sharp rise in chances, while in Vermont the Republican Phil Scott also climbed sharply.",
-  "house": "The Democrats' chances of winning control of the House rose by a sizable amount in Polymarket odds. The projected seat count moved to 258-176 from 257-177, which would mean Democrats gain control, with [[AZ-02 (Flagstaff & Maricopa)]] newly predicted as a flip. The market also shows a sharp gain for the Democrat in [[NC-14 (Gastonia & Huntersville)]], Lakesha Womack, and for the Democrat in [[IN-05 (Fishers & Carmel)]], J. D."
+  "house": "Democrats' chances of taking control of the House rose by a sizable amount in the Polymarket odds. The Democrats Lakesha Womack in [[NC-14 (Gastonia & Huntersville)]] and J. D. Ford in [[IN-05 (Fishers & Carmel)]] each saw a sharp rise in their chances, and the market counts both as predicted flips."
  }
 }
