@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T00:10:05+00:00",
+ "generated": "2026-11-04T00:19:28+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "a9f18337d8fded71",
-  "governor": "76f9411362760d5d",
-  "house": "b32c8044c7e92e0a"
+  "senate": "7e10a1b0b1ad4aee",
+  "governor": "b57ac9ef0bd7fd01",
+  "house": "a31c32de9dd2128e"
  },
  "projection": {
   "senate": {
@@ -30,9 +30,9 @@
    "lost_flips": []
   },
   "house": {
-   "score": "250-185",
-   "d": 250,
-   "r": 185,
+   "score": "251-184",
+   "d": 251,
+   "r": 184,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
@@ -45,11 +45,10 @@
     "CA-48 (Escondido & Temecula)",
     "CO-03 (Pueblo & Grand Junction)",
     "CO-08 (Thornton & Greeley)",
-    "FL-09 (Orlando & Kissimmee)",
+    "FL-13 (Clearwater & Largo)",
     "IA-01 (Davenport & Iowa City)",
     "IA-02 (Cedar Rapids & Waterloo)",
     "IA-03 (Des Moines & Ankeny)",
-    "IN-05 (Fishers & Carmel)",
     "KY-06 (Lexington-Fayette & Georgetown)",
     "LA-06 (Baton Rouge & Central)",
     "MI-04 (Kalamazoo & Battle Creek)",
@@ -58,11 +57,11 @@
     "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
     "NC-03 (Greenville & Jacksonville)",
-    "NC-09 (Fayetteville & Burlington)",
     "NC-11 (Asheville & Hendersonville)",
     "NC-13 (Fuquay-Varina & Sanford)",
     "NE-02 (Omaha & Gretna)",
     "NJ-07 (Linden & Westfield)",
+    "NV-02 (Reno & Sparks)",
     "NY-17 (Spring Valley & Ossining)",
     "OH-07 (Parma & Strongsville)",
     "PA-01 (Bristol & Morrisville)",
@@ -81,19 +80,22 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T00:09:45+00:00",
-   "was": "248-187",
+   "changed_at": "2026-11-04T00:19:12+00:00",
+   "was": "250-185",
    "new_flips": [
-    "SC-01 (Mount Pleasant & Summerville)"
+    "FL-13 (Clearwater & Largo)",
+    "NV-02 (Reno & Sparks)"
    ],
    "lost_flips": [
-    "ME-02 (Lewiston & Bangor)"
+    "FL-09 (Orlando & Kissimmee)",
+    "IN-05 (Fishers & Carmel)",
+    "NC-09 (Fayetteville & Burlington)"
    ]
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, and the party is now the market's favoured side. The Democrats Josh Turek in [[Iowa]], Adam Hamilton in [[Kansas]] and Sherrod Brown in [[Ohio]] each gained a lot of ground, and the market lists all three as predicted flips. In Nebraska, the Republican Pete Ricketts saw a sharp drop in their chances.",
-  "governor": "The biggest moves came in [[Nevada]] and [[Kansas]], both marked as predicted flips: the Democrat Aaron Ford gained ground sharply in Nevada, while the Republican Ty Masterson saw a steep drop in Kansas. In [[Florida]], the Republican Byron Donalds also strengthened considerably. Vermont's Republican, Phil Scott, slipped noticeably in the Polymarket odds.",
-  "house": "Polymarket odds moved moderately further toward the Democrats winning control of the House, which the market already favours them to do. In [[IN-05 (Fishers & Carmel)]], the Democrat J. D. Ford gained sharply on Republican Victoria Spartz, and in [[NC-13 (Fuquay-Varina & Sanford)]] the Democrat Paul Barringer also made a sharp gain against Republican Brad Knott; both are predicted flips."
+  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, and the party is now the market's favoured side. The Democratic candidates Adam Hamilton in [[Kansas]] and Josh Turek in [[Iowa]] both gained ground sharply, and each of those races is a predicted flip. In [[Ohio]], the Democrat Sherrod Brown also made a sizable gain, and that race is likewise a predicted flip.",
+  "governor": "In Vermont, Polymarket odds show a sharp climb for the Democrat Amanda Janoo, a predicted flip. Nevada looks similar, where the Democrat Aaron Ford gained ground sharply and the market also lists it as a predicted flip. Georgia saw a sharp rise for the Democrat Keisha Lance Bottoms, likewise a predicted flip, while in [[Florida]] the Republican Byron Donalds strengthened sharply.",
+  "house": "Polymarket odds show Democrats, the favoured party for House control, gaining a moderate amount of ground. In [[NC-13 (Fuquay-Varina & Sanford)]], the Democrat Paul Barringer made a sharp gain and the seat is a predicted flip, while in [[FL-09 (Orlando & Kissimmee)]] the Democrat Darren Soto also saw a sharp rise in their chances. The projected seat count moved to 251-184, up from 250-185, which means Democrats gain control, with [[FL-13 (Clearwater & Largo)]] and NV-02 (Reno & Sparks) newly predicted flips."
  }
 }
