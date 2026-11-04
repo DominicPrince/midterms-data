@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T02:49:43+00:00",
+ "generated": "2026-11-04T03:19:34+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "bfdd0ef45a9f2b7c",
-  "governor": "30cba4f27ec75e76",
-  "house": "e1a8f072c36e4708"
+  "governor": "4a99da418555503f",
+  "house": "37a8082227e8b069"
  },
  "projection": {
   "senate": {
@@ -31,13 +31,14 @@
    ]
   },
   "house": {
-   "score": "266-169",
-   "d": 266,
-   "r": 169,
+   "score": "268-166",
+   "d": 268,
+   "r": 166,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
     "AZ-02 (Flagstaff & Maricopa)",
+    "AZ-05 (Chandler & Gilbert)",
     "AZ-06 (Tucson & Casa Grande)",
     "AZ-08 (Peoria)",
     "CA-01 (Santa Rosa & Chico)",
@@ -64,7 +65,6 @@
     "MT-01 (Missoula & Bozeman)",
     "NC-03 (Greenville & Jacksonville)",
     "NC-06 (High Point & Kannapolis)",
-    "NC-07 (Wilmington & Leland)",
     "NC-09 (Fayetteville & Burlington)",
     "NC-11 (Asheville & Hendersonville)",
     "NC-13 (Fuquay-Varina & Sanford)",
@@ -73,6 +73,8 @@
     "NJ-02 (Vineland & Atlantic City)",
     "NJ-07 (Linden & Westfield)",
     "NV-02 (Reno & Sparks)",
+    "NY-01 (Lake Grove & Port Jefferson)",
+    "NY-02 (Lindenhurst & Massapequa Park)",
     "NY-17 (Spring Valley & Ossining)",
     "NY-21 (Rome & Plattsburgh)",
     "OH-07 (Parma & Strongsville)",
@@ -88,28 +90,26 @@
     "UT-01 (Salt Lake City & West Valley City)",
     "VA-01 (Williamsburg & Poquoson)",
     "VA-02 (Virginia Beach & Chesapeake)",
+    "WA-05 (Spokane & Spokane Valley)",
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T02:49:28+00:00",
-   "was": "263-171-1",
+   "changed_at": "2026-11-04T03:19:22+00:00",
+   "was": "266-169",
    "new_flips": [
-    "AZ-08 (Peoria)",
-    "ME-02 (Lewiston & Bangor)",
-    "NC-07 (Wilmington & Leland)",
-    "TX-27 (Corpus Christi & Victoria)"
+    "AZ-05 (Chandler & Gilbert)",
+    "NY-01 (Lake Grove & Port Jefferson)",
+    "NY-02 (Lindenhurst & Massapequa Park)",
+    "WA-05 (Spokane & Spokane Valley)"
    ],
    "lost_flips": [
-    "AK-AL (Alaska)",
-    "KS-02 (Kansas City & Topeka)",
-    "TN-09 (Memphis & Smyrna)",
-    "TX-32 (Garland & Richardson)"
+    "NC-07 (Wilmington & Leland)"
    ]
   }
  },
  "summaries": {
   "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds, and the party is now the favoured side. Among the races driving that shift, the Democrat in [[South Carolina]], Annie Andrews, gained ground sharply, as did the Democrat in [[Iowa]], Josh Turek, and both are predicted flips. The market's projected seat count is now 55-45, up from 55-44-1, which would mean Democrats gain control.",
-  "governor": "The biggest move in the Governor market came in [[Texas]], where the Democrat Gina Hinojosa saw a sharp rise in the Polymarket odds, and the market shows it as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained sharply. Elsewhere, the Republican Byron Donalds in [[Florida]] strengthened a great deal, as did the Republican Phil Scott in Vermont.",
-  "house": "The Democrats' chances of winning control of the House rose by a sizable amount, according to Polymarket odds. The projected seat count now stands at 266-169, up from 263-171-1, which would mean Democrats gain control, and [[AZ-08 (Peoria)]], [[ME-02 (Lewiston & Bangor)]] and [[NC-07 (Wilmington & Leland)]] are among the newly predicted flips. Among individual races, the Democrat J. D."
+  "governor": "In [[Texas]], the Democrat Gina Hinojosa saw a sharp rise in the market's odds, and Polymarket treats the seat as a predicted flip. The Democrat in [[Georgia]], Keisha Lance Bottoms, also gained sharply, and that seat is likewise a predicted flip. In [[Kansas]], the Democrat Cindy Holscher strengthened sharply as well, while in Florida the Republican Byron Donalds also moved up by a large margin.",
+  "house": "Polymarket odds show the Democrats' chances of winning the House grew by a sizable margin, strengthening their position as the favoured party. The market also moved sharply toward the Democrats in [[IN-05 (Fishers & Carmel)]], where J. D. Ford gained ground, and in [[NC-14 (Gastonia & Huntersville)]], where Lakesha Womack did the same, and both are now predicted flips."
  }
 }
