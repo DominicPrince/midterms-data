@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T03:49:47+00:00",
+ "generated": "2026-11-04T04:19:46+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "bfdd0ef45a9f2b7c",
-  "governor": "4a99da418555503f",
-  "house": "4fb62baaa9aa0884"
+  "governor": "30cba4f27ec75e76",
+  "house": "3a6fb10400912ba0"
  },
  "projection": {
   "senate": {
@@ -31,16 +31,14 @@
    ]
   },
   "house": {
-   "score": "264-170",
-   "d": 264,
-   "r": 170,
+   "score": "258-176",
+   "d": 258,
+   "r": 176,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
-    "AZ-02 (Flagstaff & Maricopa)",
     "AZ-05 (Chandler & Gilbert)",
     "AZ-06 (Tucson & Casa Grande)",
-    "AZ-08 (Peoria)",
     "CA-01 (Santa Rosa & Chico)",
     "CA-03 (Folsom & Rancho Cordova)",
     "CA-22 (Bakersfield & Tulare)",
@@ -57,12 +55,11 @@
     "KY-06 (Lexington-Fayette & Georgetown)",
     "LA-06 (Baton Rouge & Central)",
     "ME-02 (Lewiston & Bangor)",
-    "MI-04 (Kalamazoo & Battle Creek)",
     "MI-07 (Lansing & East Lansing)",
     "MI-10 (Warren & Sterling Heights)",
-    "MN-01 (Rochester & Mankato)",
     "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
+    "NC-05 (Greensboro & Boone)",
     "NC-06 (High Point & Kannapolis)",
     "NC-09 (Fayetteville & Burlington)",
     "NC-11 (Asheville & Hendersonville)",
@@ -81,34 +78,37 @@
     "PA-08 (Scranton & Wilkes-Barre)",
     "PA-10 (Harrisburg & York)",
     "SC-01 (Mount Pleasant & Summerville)",
-    "SC-02 (Columbia & Aiken)",
+    "TN-04 (Murfreesboro & La Vergne)",
     "TN-09 (Memphis & Smyrna)",
     "TX-15 (Edinburg & Pharr)",
-    "TX-25 (Cleburne & Stephenville)",
+    "TX-32 (Garland & Richardson)",
     "UT-01 (Salt Lake City & West Valley City)",
     "VA-01 (Williamsburg & Poquoson)",
     "VA-02 (Virginia Beach & Chesapeake)",
-    "WA-05 (Spokane & Spokane Valley)",
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T03:49:27+00:00",
-   "was": "268-166",
+   "changed_at": "2026-11-04T04:19:29+00:00",
+   "was": "264-170",
    "new_flips": [
-    "TN-09 (Memphis & Smyrna)",
-    "TX-25 (Cleburne & Stephenville)"
+    "NC-05 (Greensboro & Boone)",
+    "TN-04 (Murfreesboro & La Vergne)",
+    "TX-32 (Garland & Richardson)"
    ],
    "lost_flips": [
-    "NC-03 (Greenville & Jacksonville)",
-    "NY-01 (Lake Grove & Port Jefferson)",
-    "NY-02 (Lindenhurst & Massapequa Park)",
-    "TX-27 (Corpus Christi & Victoria)"
+    "AZ-02 (Flagstaff & Maricopa)",
+    "AZ-08 (Peoria)",
+    "MI-04 (Kalamazoo & Battle Creek)",
+    "MN-01 (Rochester & Mankato)",
+    "SC-02 (Columbia & Aiken)",
+    "TX-25 (Cleburne & Stephenville)",
+    "WA-05 (Spokane & Spokane Valley)"
    ]
   }
  },
  "summaries": {
   "senate": "The Democrats' chances of winning control of the Senate rose sharply in Polymarket odds, and the party is now the favoured side. Among the races driving that shift, the Democrat in [[South Carolina]], Annie Andrews, gained ground sharply, as did the Democrat in [[Iowa]], Josh Turek, and both are predicted flips. The market's projected seat count is now 55-45, up from 55-44-1, which would mean Democrats gain control.",
-  "governor": "In [[Texas]], the Democrat Gina Hinojosa saw a sharp rise in the market's odds, and Polymarket treats the seat as a predicted flip. The Democrat in [[Georgia]], Keisha Lance Bottoms, also gained sharply, and that seat is likewise a predicted flip. In [[Kansas]], the Democrat Cindy Holscher strengthened sharply as well, while in Florida the Republican Byron Donalds also moved up by a large margin.",
-  "house": "Polymarket odds show a sizable gain in the Democrats' chances of winning control of the House. Two races saw sharp moves: in [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained ground against the Republican Tim Moore, and in [[IN-05 (Fishers & Carmel)]], the Democrat J. D. Ford made a similar jump against the Republican Victoria Spartz, with both seats now a predicted flip."
+  "governor": "The most striking move is in [[Texas]], where the Democrat Gina Hinojosa saw a sharp rise in Polymarket odds and the market now shows a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained ground sharply, against the Republican Ty Masterson. Elsewhere, the Republican Byron Donalds in [[Florida]] strengthened sharply as well.",
+  "house": "Polymarket odds show the Democrats' chances of winning House control rising by a sizable amount. In [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained sharply, and the market sees a predicted flip there. The same is true in [[IN-05 (Fishers & Carmel)]], where the Democrat J. D."
  }
 }
