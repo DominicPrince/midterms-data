@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T15:06:54+00:00",
+ "generated": "2026-11-04T16:07:58+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
   "senate": "c21e16f8169d0c73",
-  "governor": "173c4cc740ff8eec",
-  "house": "9853122c47a5b6a6"
+  "governor": "0c13857021fef063",
+  "house": "4e73e8d91bcf0d7b"
  },
  "calls_seen": {
   "senate": [
@@ -57,6 +57,7 @@
    "Idaho",
    "Illinois",
    "Iowa",
+   "Kansas",
    "Maine",
    "Maryland",
    "Massachusetts",
@@ -89,7 +90,6 @@
    "AL-06 (Hoover & Prattville)",
    "AL-07 (Birmingham & Homewood)",
    "AR-01 (Jonesboro & Paragould)",
-   "AR-02 (Little Rock & Conway)",
    "AR-03 (Fayetteville & Fort Smith)",
    "AR-04 (Pine Bluff & Hot Springs)",
    "AZ-01 (Phoenix & Scottsdale)",
@@ -104,7 +104,6 @@
    "CA-04 (Napa & Yuba City)",
    "CA-05 (Clovis & Madera)",
    "CA-06 (Sacramento & Roseville)",
-   "CA-07 (Elk Grove & Lodi)",
    "CA-08 (Vallejo & Fairfield)",
    "CA-09 (Stockton & Antioch)",
    "CA-10 (Concord & San Ramon)",
@@ -141,6 +140,7 @@
    "CA-44 (Carson & South Gate)",
    "CA-45 (Garden Grove & Fullerton)",
    "CA-46 (Santa Ana & Orange)",
+   "CA-47 (Irvine & Lake Forest)",
    "CA-48 (Escondido & Temecula)",
    "CA-49 (Oceanside & Carlsbad)",
    "CA-50 (San Diego & Santee)",
@@ -164,6 +164,7 @@
    "FL-05 (Jacksonville Beach & St. Augustine)",
    "FL-06 (Palm Coast & Daytona Beach)",
    "FL-08 (Palm Bay & Melbourne)",
+   "FL-09 (Orlando & Kissimmee)",
    "FL-10 (Winter Park & Maitland)",
    "FL-11 (Apopka & Ocoee)",
    "FL-12 (Tampa & New Port Richey)",
@@ -263,6 +264,7 @@
    "MI-01 (Marquette & Traverse City)",
    "MI-02 (Mount Pleasant & Ionia)",
    "MI-03 (Grand Rapids & Wyoming)",
+   "MI-04 (Kalamazoo & Battle Creek)",
    "MI-05 (Jackson & Adrian)",
    "MI-06 (Ann Arbor & Novi)",
    "MI-07 (Lansing & East Lansing)",
@@ -290,6 +292,7 @@
    "MS-02 (Jackson & Greenville)",
    "MS-03 (Meridian & Pearl)",
    "MS-04 (Gulfport & Hattiesburg)",
+   "MT-01 (Missoula & Bozeman)",
    "MT-02 (Billings & Great Falls)",
    "NC-01 (Rocky Mount & New Bern)",
    "NC-02 (Raleigh & Cary)",
@@ -300,6 +303,7 @@
    "NC-10 (Winston-Salem & Mooresville)",
    "NC-11 (Asheville & Hendersonville)",
    "NC-12 (Charlotte)",
+   "NC-13 (Fuquay-Varina & Sanford)",
    "ND-AL (North Dakota)",
    "NE-02 (Omaha & Gretna)",
    "NE-03 (Grand Island & Kearney)",
@@ -337,6 +341,7 @@
    "NY-14 (New York (north-east))",
    "NY-15 (New York (north))",
    "NY-16 (Yonkers & New Rochelle)",
+   "NY-17 (Spring Valley & Ossining)",
    "NY-18 (Kiryas Joel & Poughkeepsie)",
    "NY-19 (Binghamton & Ithaca)",
    "NY-20 (Albany & Schenectady)",
@@ -469,7 +474,7 @@
  },
  "summaries": {
   "senate": "Democrats have 54 seats to the Republicans' 44, past the 50 needed for a majority, and the market sees them as near-certain to control the Senate. Seven seats have been called for a different party from the one holding them, including [[Texas]], where the Democrat James Talarico won, and [[Ohio]], where the Democrat Sherrod Brown won. The one upset is [[South Carolina]], where the Democrat Annie Andrews won after being an underdog before the polls closed; the other 32 calls went to the favourite. Still uncalled are Alaska and Mississippi, where the Democrats Mary Peltola and Scott Colom are each a strong favourite.",
-  "governor": "Democrats hold 29 governorships to the Republicans' 20, with 35 of the 36 races up called. Six seats have been called for a different party from the one holding them, among them [[Ohio]], where the Democrat Amy Acton won, and [[Georgia]], where the Democrat Keisha Lance Bottoms won. The one upset is [[Texas]], where the Democrat Gina Hinojosa was a slight underdog before polls closed, and the other 34 calls went to the pre-poll favourite. Still uncalled is Kansas, where the Democrat Cindy Holscher is a strong favourite.",
-  "house": "Democrats have 241 House seats to the Republicans' 143, past the 218 needed for a majority, with 384 of 435 races called, and the market sees Democratic control as near-certain. Democrats have won 34 seats held by Republicans, among them [[NC-09 (Fayetteville & Burlington)]], where Richard Ojeda won, and [[AZ-01 (Phoenix & Scottsdale)]], where Amish Shah won. Eight calls went against the market's pre-poll favourite, including the Democrats Richard Ojeda and Zack Mullock, each a slight underdog before polls closed, and Cyril Jefferson, a long shot in North Carolina's High Point and Kannapolis district. Among races still to be called, [[NC-13 (Fuquay-Varina & Sanford)]] has Democrat Paul Barringer as a strong favourite."
+  "governor": "Democrats have 30 governorships to the Republicans' 20, which includes 14 not up this year, and all 36 races up this year have been called. Six seats have been called for a different party from the one holding them, among them [[Texas]], where the Democrat Gina Hinojosa won, [[Ohio]], where the Democrat Amy Acton won, and [[Georgia]], where the Democrat Keisha Lance Bottoms won, all taken from the Republicans. Two calls were unexpected: the Democrats Gina Hinojosa in Texas and Cindy Holscher in Kansas were each slight underdogs before their state's polls closed. The other 34 calls went to the favourite.",
+  "house": "Democrats have 246 seats to the Republicans' 142, already past the 218 needed, and the market makes them near-certain to control the House. Of the 388 races called, 38 went to a different party from the one holding the seat, including [[NC-13 (Fuquay-Varina & Sanford)]], where the Democrat Paul Barringer won, and [[AZ-01 (Phoenix & Scottsdale)]], where the Democrat Amish Shah won. Ten winners were underdogs before their state's polls closed, among them Barringer, a slight underdog, and the Democrat J. D. Ford in [[IN-05 (Fishers & Carmel)]], an underdog; the other 378 calls went to the pre-poll favourite."
  }
 }
