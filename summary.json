@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-04T06:49:52+00:00",
+ "generated": "2026-11-04T07:20:10+00:00",
  "model": "claude-sonnet-5-5",
  "checked": true,
  "facts_seen": {
-  "senate": "aad3ec66821eb86f",
+  "senate": "77411a90eca1a737",
   "governor": "e0268277b2268938",
-  "house": "300c2b4439ea1947"
+  "house": "6c962f06a22b53ec"
  },
  "projection": {
   "senate": {
-   "score": "54-46",
-   "d": 54,
-   "r": 46,
+   "score": "53-47",
+   "d": 53,
+   "r": 47,
    "i": 0,
    "flips": [
     "Alaska",
@@ -19,24 +19,24 @@
     "Kansas",
     "Maine",
     "Mississippi",
-    "Ohio",
-    "Texas"
+    "Ohio"
    ],
-   "changed_at": "2026-11-04T06:49:41+00:00",
-   "was": "55-45",
+   "changed_at": "2026-11-04T07:19:46+00:00",
+   "was": "54-46",
    "new_flips": [],
    "lost_flips": [
-    "South Carolina"
+    "Texas"
    ]
   },
   "house": {
-   "score": "255-179",
-   "d": 255,
-   "r": 179,
+   "score": "254-180",
+   "d": 254,
+   "r": 180,
    "i": 0,
    "flips": [
     "AZ-01 (Phoenix & Scottsdale)",
     "AZ-02 (Flagstaff & Maricopa)",
+    "AZ-05 (Chandler & Gilbert)",
     "AZ-06 (Tucson & Casa Grande)",
     "AZ-08 (Peoria)",
     "CA-01 (Santa Rosa & Chico)",
@@ -58,6 +58,7 @@
     "MI-10 (Warren & Sterling Heights)",
     "MO-02 (O'Fallon & Chesterfield)",
     "MT-01 (Missoula & Bozeman)",
+    "NC-03 (Greenville & Jacksonville)",
     "NC-05 (Greensboro & Boone)",
     "NC-06 (High Point & Kannapolis)",
     "NC-09 (Fayetteville & Burlington)",
@@ -69,10 +70,7 @@
     "NY-17 (Spring Valley & Ossining)",
     "OH-07 (Parma & Strongsville)",
     "OH-10 (Dayton & Kettering)",
-    "OH-15 (Dublin & Grove City)",
     "PA-01 (Bristol & Morrisville)",
-    "PA-08 (Scranton & Wilkes-Barre)",
-    "PA-10 (Harrisburg & York)",
     "SC-01 (Mount Pleasant & Summerville)",
     "TN-04 (Murfreesboro & La Vergne)",
     "TN-09 (Memphis & Smyrna)",
@@ -84,18 +82,22 @@
     "WI-01 (Kenosha & Racine)",
     "WI-03 (Eau Claire & La Crosse)"
    ],
-   "changed_at": "2026-11-04T06:49:41+00:00",
-   "was": "256-177-1",
-   "new_flips": [],
-   "lost_flips": [
-    "AK-AL (Alaska)",
+   "changed_at": "2026-11-04T07:19:46+00:00",
+   "was": "255-179",
+   "new_flips": [
+    "AZ-05 (Chandler & Gilbert)",
     "NC-03 (Greenville & Jacksonville)"
+   ],
+   "lost_flips": [
+    "OH-15 (Dublin & Grove City)",
+    "PA-08 (Scranton & Wilkes-Barre)",
+    "PA-10 (Harrisburg & York)"
    ]
   }
  },
  "summaries": {
-  "senate": "Polymarket odds for Democrats winning control of the Senate rose sharply, with the party favoured to take the chamber. Two races drove much of the shift: in [[Mississippi]], the Democrat Scott Colom made a sharp gain and is now a predicted flip, and in [[Iowa]], the Democrat Josh Turek also rose sharply, another predicted flip. The projected seat count is now 54-46, down from 55-45, and Democrats still gain control.",
+  "senate": "Polymarket odds for Democratic control of the Senate rose sharply, with Democrats now the favoured party. The Democrats Scott Colom in [[Mississippi]] and Josh Turek in [[Iowa]] each gained a lot of ground, and the market treats both as predicted flips. The projected Senate count is now 53-47, down from 54-46, still a result in which Democrats gain control.",
   "governor": "Polymarket odds for [[Texas]] moved sharply toward the Democrat Gina Hinojosa, and the market now shows a predicted flip there. [[Nevada]] saw a similar sharp move, with the Democrat Aaron Ford gaining ground and also marked as a predicted flip. In [[Kansas]], the Democrat Cindy Holscher also gained ground sharply.",
-  "house": "Polymarket odds for a Democratic House majority rose by a sizable amount, leaving Democrats the favoured party for control. The Democratic candidates also gained sharply in [[NC-14 (Gastonia & Huntersville)]], where Lakesha Womack is up against the Republican Tim Moore, and in [[IN-05 (Fishers & Carmel)]], where J. D. Ford faces the Republican Victoria Spartz; the market shows both as predicted flips."
+  "house": "Polymarket odds for Democratic control of the House rose by a sizable amount, with Democrats still the favoured party. In [[NC-14 (Gastonia & Huntersville)]], the Democrat Lakesha Womack gained sharply and the race is a predicted flip, and the Democrat J. D. Ford also advanced sharply in [[IN-05 (Fishers & Carmel)]], another predicted flip."
  }
 }
